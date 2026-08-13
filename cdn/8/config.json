@@ -181,28 +181,6 @@
     "layout_0": {
       "type": "FIXED",
       "content": {
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_89",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.0%",
-            "top": "96.7%",
-            "bottom": "-0.3%",
-            "width": "100.0%",
-            "height": "3.6%"
-          },
-          "setting": {
-            "vCenter": false,
-            "hCenter": false,
-            "autoProps": {
-              "right": false,
-              "left": true,
-              "top": true,
-              "bottom": false
-            }
-          }
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_114",
@@ -210,9 +188,9 @@
             "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "3.3%",
+            "bottom": "0.0%",
             "width": "100.0%",
-            "height": "96.7%"
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
@@ -225,7 +203,6 @@
         }
       },
       "order": [
-        "4",
         "5"
       ]
     },
@@ -281,8 +258,8 @@
           "bbox": {
             "left": "46.1%",
             "right": "46.2%",
-            "top": "91.9%",
-            "bottom": "4.0%",
+            "top": "87.6%",
+            "bottom": "8.3%",
             "width": "7.7%",
             "height": "4.1%"
           },
@@ -303,8 +280,8 @@
           "bbox": {
             "left": "54.2%",
             "right": "38.1%",
-            "top": "91.9%",
-            "bottom": "4.0%",
+            "top": "87.6%",
+            "bottom": "8.3%",
             "width": "7.7%",
             "height": "4.1%"
           },
@@ -1436,9 +1413,9 @@
             "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "3.2%",
+            "bottom": "0.0%",
             "width": "100.0%",
-            "height": "96.8%"
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
@@ -1450,33 +1427,10 @@
             "vCenter": false,
             "hCenter": false
           }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_89",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.0%",
-            "top": "96.7%",
-            "bottom": "-0.3%",
-            "width": "100.0%",
-            "height": "3.6%"
-          },
-          "setting": {
-            "vCenter": false,
-            "hCenter": false,
-            "autoProps": {
-              "right": false,
-              "left": true,
-              "top": true,
-              "bottom": false
-            }
-          }
         }
       },
       "order": [
-        "0",
-        "4"
+        "0"
       ]
     },
     "layout_34": {
@@ -1933,28 +1887,6 @@
     "layout_39": {
       "type": "FIXED",
       "content": {
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_89",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.0%",
-            "top": "96.7%",
-            "bottom": "-0.3%",
-            "width": "100.0%",
-            "height": "3.6%"
-          },
-          "setting": {
-            "vCenter": false,
-            "hCenter": false,
-            "autoProps": {
-              "right": false,
-              "left": true,
-              "top": true,
-              "bottom": false
-            }
-          }
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_102",
@@ -1962,9 +1894,9 @@
             "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "3.3%",
+            "bottom": "0.0%",
             "width": "100.0%",
-            "height": "96.7%"
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
@@ -1977,7 +1909,6 @@
         }
       },
       "order": [
-        "4",
         "5"
       ]
     },
@@ -8836,29 +8767,6 @@
       },
       "id": "widget_83",
       "useDataSources": []
-    },
-    "widget_89": {
-      "uri": "widgets/common/menu/",
-      "version": "1.19.0",
-      "label": "Menu 4",
-      "config": {
-        "type": "nav",
-        "vertical": false,
-        "menuStyle": "pills",
-        "advanced": true,
-        "variant": {
-          "root": {
-            "bg": "#f7b90b"
-          },
-          "item": {
-            "default": {
-              "bg": "#00349a",
-              "color": "var(--light)"
-            }
-          }
-        }
-      },
-      "id": "widget_89"
     },
     "widget_90": {
       "uri": "widgets/common/button/",
@@ -22213,10 +22121,10 @@
             "hover": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#EC2329"
+                "color": "#1e5fa8"
               },
               "background": {
-                "color": "#050505",
+                "color": "#FFFFFF",
                 "fillType": "fill"
               }
             },
@@ -22226,7 +22134,7 @@
                 "color": "#FFFFFF"
               },
               "background": {
-                "color": "#EC2329",
+                "color": "#1e5fa8",
                 "fillType": "fill"
               }
             }
@@ -22260,10 +22168,10 @@
             "hover": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#EC2329"
+                "color": "#1e5fa8"
               },
               "background": {
-                "color": "#050505",
+                "color": "#FFFFFF",
                 "fillType": "fill"
               }
             },
@@ -22273,7 +22181,7 @@
                 "color": "#FFFFFF"
               },
               "background": {
-                "color": "#EC2329",
+                "color": "#1e5fa8",
                 "fillType": "fill"
               }
             }
