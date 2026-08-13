@@ -279,43 +279,45 @@
           "type": "WIDGET",
           "widgetId": "widget_278",
           "bbox": {
-            "left": "67.2%",
-            "right": "26.8%",
-            "top": "75.4%",
-            "bottom": "17.7%",
-            "width": "6.0%",
-            "height": "6.8%"
+            "left": "46.1%",
+            "right": "46.2%",
+            "top": "91.9%",
+            "bottom": "4.0%",
+            "width": "7.7%",
+            "height": "4.1%"
           },
           "setting": {
             "autoProps": {
-              "right": false,
-              "left": true,
+              "right": true,
+              "left": false,
               "top": true,
               "bottom": false
-            }
-          },
-          "isPending": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         },
         "6": {
           "type": "WIDGET",
           "widgetId": "widget_276",
           "bbox": {
-            "left": "21.1%",
-            "right": "72.9%",
-            "top": "79.0%",
-            "bottom": "14.2%",
-            "width": "6.0%",
-            "height": "6.8%"
+            "left": "54.2%",
+            "right": "38.1%",
+            "top": "91.9%",
+            "bottom": "4.0%",
+            "width": "7.7%",
+            "height": "4.1%"
           },
           "setting": {
             "autoProps": {
-              "left": false,
               "right": true,
+              "left": false,
               "top": true,
               "bottom": false
-            }
-          },
-          "isPending": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         }
       },
       "type": "FIXED",
@@ -377,6 +379,12 @@
           "bbox": {},
           "setting": {}
         },
+        "17": {
+          "type": "WIDGET",
+          "widgetId": "widget_301",
+          "bbox": {},
+          "setting": {}
+        },
         "18": {
           "type": "WIDGET",
           "widgetId": "widget_282",
@@ -393,16 +401,17 @@
       "type": "FIXED",
       "label": "Controller layout",
       "order": [
-        "15",
-        "18",
-        "16",
         "3",
         "5",
         "6",
         "8",
         "9",
         "10",
-        "19"
+        "15",
+        "17",
+        "18",
+        "19",
+        "16"
       ]
     },
     "layout_7": {
@@ -8014,29 +8023,29 @@
               "width": 1032,
               "height": 774
             },
-            "widget_276": {
-              "width": 836,
-              "height": 766
-            },
             "widget_279": {
               "width": 1120,
               "height": 871
             },
             "widget_280": {
-              "width": 1109,
-              "height": 597
+              "width": 1200,
+              "height": 800
             },
             "widget_281": {
               "width": 892,
               "height": 648
             },
             "widget_282": {
-              "width": 1120,
-              "height": 698
+              "width": 436,
+              "height": 436
             },
             "widget_297": {
               "width": 706,
               "height": 481
+            },
+            "widget_301": {
+              "width": 403,
+              "height": 362
             }
           },
           "arrangement": "floating"
@@ -9165,7 +9174,7 @@
                 "name": "temperature",
                 "type": "NUMBER",
                 "esriType": "esriFieldTypeDouble",
-                "alias": "Temperature (\u00b0F)",
+                "alias": "Temperature (°F)",
                 "format": {
                   "digitSeparator": true,
                   "places": 2
@@ -22181,27 +22190,95 @@
       "useDataSources": []
     },
     "widget_276": {
-      "uri": "widgets/common/embed/",
-      "version": "1.19.0",
-      "label": "Check In/Out Dashboard",
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Resource Manager",
       "config": {
-        "embedType": "url",
-        "expression": "<p>https://script.google.com/macros/s/AKfycbxH3tYYnEgIPLD4gQfUCCX4A3IuUQuT5HiBLZ4sq7sWvsBMLuaDL_CFN-SiFfx9FiUq/exec</p>",
-        "enableLabel": false,
-        "autoRefresh": false,
-        "autoInterval": 1
+        "functionConfig": {
+          "text": "Resource Manager",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://script.google.com/macros/s/AKfycbzsxpfqbV7di4yTHRiTr7bg-RwojLuesrLhPoaFVM8foedbzhxMMyC-lPcBPPyLtjtm/exec?role=wri_icp",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#EC2329"
+              },
+              "background": {
+                "color": "#050505",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "background": {
+                "color": "#EC2329",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
       },
       "id": "widget_276",
       "useDataSources": []
     },
     "widget_278": {
-      "uri": "widgets/common/embed/",
-      "version": "1.19.0",
-      "label": "Live Stream",
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Ops Dashboard",
       "config": {
-        "embedType": "url",
-        "expression": "<p>https://dilojsz7ulq9z.cloudfront.net/&nbsp;&nbsp;</p>",
-        "enableLabel": false
+        "functionConfig": {
+          "text": "Ops Dashboard",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://script.google.com/macros/s/AKfycbytFBip-cbr-ohGpVGFoFBQ3spMLCswlbP26B4Syw0rrDs_x2hO4FqpdFzR6Mb3h9Ke/exec?page=v2",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#EC2329"
+              },
+              "background": {
+                "color": "#050505",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "background": {
+                "color": "#EC2329",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
       },
       "id": "widget_278",
       "useDataSources": []
@@ -22209,11 +22286,12 @@
     "widget_279": {
       "uri": "widgets/common/embed/",
       "version": "1.19.0",
-      "label": "Passenger Manifest",
+      "label": "Live Stream",
       "config": {
         "embedType": "url",
-        "expression": "<p><br></p>",
-        "enableLabel": false
+        "expression": "<p>https://app.mapnova.com/live?workspaceId=c9c97b46-4d56-4869-89ed-fba4ed6467de</p>",
+        "enableLabel": false,
+        "honorThemeFont": false
       },
       "id": "widget_279",
       "useDataSources": []
@@ -22221,13 +22299,11 @@
     "widget_280": {
       "uri": "widgets/common/embed/",
       "version": "1.19.0",
-      "label": "Resource Tracking",
+      "label": "Sit Stat",
       "config": {
         "embedType": "url",
-        "expression": "<p>https://script.google.com/macros/s/AKfycbyivMxwODYCzUVdotat2UlcqjgRtjNZuNKym0w9w9kwb_pMgWH607GG0kAhIYPXZQuR/exec?page=dashboard</p>",
-        "enableLabel": false,
-        "autoRefresh": true,
-        "autoInterval": 60
+        "expression": "<p>https://script.google.com/macros/s/AKfycbzsxpfqbV7di4yTHRiTr7bg-RwojLuesrLhPoaFVM8foedbzhxMMyC-lPcBPPyLtjtm/exec?role=sitstat</p>",
+        "enableLabel": false
       },
       "id": "widget_280",
       "useDataSources": []
@@ -22235,10 +22311,10 @@
     "widget_282": {
       "uri": "widgets/common/embed/",
       "version": "1.19.0",
-      "label": "Check In/Out",
+      "label": "Gateway PIN (live)",
       "config": {
         "embedType": "url",
-        "expression": "<p><br></p>",
+        "expression": "<p>https://script.google.com/macros/s/AKfycbzcg-yD3_ALkdGYVEOuGY3VR8NrlsPRoxL6k-4LKX3SqEI6NlaKkpprKCtez2xo9C2u/exec?api=gatewayqr</p>",
         "enableLabel": false
       },
       "id": "widget_282",
@@ -22774,6 +22850,42 @@
       "useMapWidgetIds": [
         "widget_1"
       ]
+    },
+    "widget_301": {
+      "uri": "widgets/common/image/",
+      "version": "1.20.0",
+      "label": "Live Stream QR",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_301/1777478017385.png",
+            "originalUrl": "${appResourceUrl}/images/widget_301/1777478017385.png",
+            "fileName": "1777478017385.png",
+            "originalName": "Screen Shot 2026-04-29 at 09.52.38.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1777478017385",
+            "originalWidth": 242,
+            "originalHeight": 238,
+            "cropParam": {
+              "svgViewBox": "0 0 16 16",
+              "svgPath": "M0 0h16v16H0z",
+              "cropShape": "square"
+            }
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageViewer": false,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_301"
     }
   },
   "widgetsManifest": {},
@@ -23743,7 +23855,14 @@
     }
   },
   "attributes": {
-    "portalUrl": "https://WRIEnviro.maps.arcgis.com"
+    "portalUrl": "https://WRIEnviro.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "NO3gI5DZBFXkhm3U",
+    "express": false,
+    "title": "WRI Response Viewer",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
   "sharedThemeVariables": null,
   "dataSources": {
