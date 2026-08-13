@@ -236,15 +236,15 @@
           "bbox": {
             "left": "14.6%",
             "right": "14.6%",
-            "top": "92.4%",
-            "bottom": "3.0%",
+            "top": "85.0%",
+            "bottom": "10.3%",
             "width": "70.8%",
             "height": "4.7%"
           },
           "setting": {
             "autoProps": {
-              "left": true,
-              "right": false,
+              "left": false,
+              "right": true,
               "top": true,
               "bottom": false
             },
@@ -256,10 +256,10 @@
           "type": "WIDGET",
           "widgetId": "widget_278",
           "bbox": {
-            "left": "46.1%",
-            "right": "46.2%",
-            "top": "87.6%",
-            "bottom": "8.3%",
+            "left": "45.2%",
+            "right": "47.1%",
+            "top": "91.7%",
+            "bottom": "4.2%",
             "width": "7.7%",
             "height": "4.1%"
           },
@@ -278,17 +278,17 @@
           "type": "WIDGET",
           "widgetId": "widget_276",
           "bbox": {
-            "left": "54.2%",
-            "right": "38.1%",
-            "top": "87.6%",
-            "bottom": "8.3%",
+            "left": "54.0%",
+            "right": "38.3%",
+            "top": "91.8%",
+            "bottom": "4.1%",
             "width": "7.7%",
             "height": "4.1%"
           },
           "setting": {
             "autoProps": {
-              "right": true,
-              "left": false,
+              "right": false,
+              "left": true,
               "top": true,
               "bottom": false
             },
@@ -7440,7 +7440,7 @@
   "widgets": {
     "widget_1": {
       "uri": "widgets/arcgis/arcgis-map/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Map",
       "config": {
         "toolConfig": {
@@ -7562,7 +7562,7 @@
     },
     "widget_6": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out",
       "config": {
         "functionConfig": {
@@ -7596,7 +7596,7 @@
     },
     "widget_7": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-(1&2)",
       "config": {
         "functionConfig": {
@@ -7622,7 +7622,7 @@
     },
     "widget_9": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-3",
       "config": {
         "functionConfig": {
@@ -7643,7 +7643,7 @@
     },
     "widget_10": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-4",
       "config": {
         "functionConfig": {
@@ -7664,7 +7664,7 @@
     },
     "widget_11": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "HASP",
       "config": {
         "functionConfig": {
@@ -7690,7 +7690,7 @@
     },
     "widget_13": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Recon",
       "config": {
         "functionConfig": {
@@ -7712,7 +7712,7 @@
     },
     "widget_14": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Vessel Ops",
       "config": {
         "functionConfig": {
@@ -7734,7 +7734,7 @@
     },
     "widget_15": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Air Ops",
       "config": {
         "functionConfig": {
@@ -7760,7 +7760,7 @@
     },
     "widget_16": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 214",
       "config": {
         "functionConfig": {
@@ -7782,7 +7782,7 @@
     },
     "widget_17": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 206",
       "config": {
         "functionConfig": {
@@ -7813,7 +7813,7 @@
     },
     "widget_18": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 206",
       "config": {
         "functionConfig": {
@@ -7844,7 +7844,7 @@
     },
     "widget_19": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 213RR",
       "config": {
         "functionConfig": {
@@ -7866,7 +7866,7 @@
     },
     "widget_20": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 15",
       "config": {
         "functionConfig": {
@@ -7888,7 +7888,7 @@
     },
     "widget_22": {
       "uri": "widgets/arcgis/coordinates/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "offPanel": true,
       "label": "Coordinates",
       "config": {
@@ -7929,7 +7929,7 @@
     },
     "widget_24": {
       "uri": "widgets/common/controller/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Widget Controller",
       "config": {
         "behavior": {
@@ -7994,17 +7994,17 @@
             },
             "variant": {
               "default": {
-                "iconColor": "var(--dark)",
-                "bg": "var(--light)",
-                "color": "#ffffff"
+                "iconColor": "var(--light)",
+                "bg": "var(--primary)",
+                "color": "var(--light)"
               },
               "active": {
                 "iconColor": "var(--light)",
-                "bg": "var(--primary)"
+                "bg": "var(--dark)"
               },
               "hover": {
-                "iconColor": "var(--light)",
-                "bg": "var(--primary)"
+                "iconColor": "var(--primary)",
+                "bg": "var(--light)"
               }
             }
           }
@@ -8021,7 +8021,7 @@
     },
     "widget_27": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 2",
       "config": {
         "functionConfig": {
@@ -8056,7 +8056,7 @@
     },
     "widget_28": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 3",
       "config": {
         "functionConfig": {
@@ -8086,7 +8086,7 @@
     },
     "widget_29": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 4",
       "config": {
         "functionConfig": {
@@ -8116,7 +8116,7 @@
     },
     "widget_30": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 5",
       "config": {
         "functionConfig": {
@@ -8146,7 +8146,7 @@
     },
     "widget_31": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 6",
       "config": {
         "functionConfig": {
@@ -8176,7 +8176,7 @@
     },
     "widget_32": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 7",
       "config": {
         "functionConfig": {
@@ -8206,7 +8206,7 @@
     },
     "widget_33": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 8",
       "config": {
         "functionConfig": {
@@ -8236,7 +8236,7 @@
     },
     "widget_34": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 9",
       "config": {
         "functionConfig": {
@@ -8266,7 +8266,7 @@
     },
     "widget_35": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 10",
       "config": {
         "functionConfig": {
@@ -8296,7 +8296,7 @@
     },
     "widget_36": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 11",
       "config": {
         "functionConfig": {
@@ -8326,7 +8326,7 @@
     },
     "widget_37": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 2",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/4fbzb1\" target=\"_self\" data-uniqueid=\"87d90558_7370_ee08_31b0_8ba5423bf49c\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_self%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F4fbzb1%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8338,7 +8338,7 @@
     },
     "widget_38": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 12",
       "config": {
         "functionConfig": {
@@ -8368,7 +8368,7 @@
     },
     "widget_39": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 3",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/1nbrf92\" target=\"_self\" data-uniqueid=\"08601134_600e_f9b8_9590_301b2698e0b9\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_self%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F1nbrf92%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8380,7 +8380,7 @@
     },
     "widget_40": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 13",
       "config": {
         "functionConfig": {
@@ -8410,7 +8410,7 @@
     },
     "widget_41": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 4",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/0aeXLz0\" target=\"_top\" data-uniqueid=\"fc6f76fc_20a2_fe01_7bd6_da5f93176b49\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_top%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F0aeXLz0%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8422,7 +8422,7 @@
     },
     "widget_42": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 14",
       "config": {
         "functionConfig": {
@@ -8452,7 +8452,7 @@
     },
     "widget_43": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 5",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/1rP4Cz1\" target=\"_blank\" data-uniqueid=\"98b12317_12b7_b2c9_7d9c_14a29e9acc95\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F1rP4Cz1%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8464,7 +8464,7 @@
     },
     "widget_44": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 15",
       "config": {
         "functionConfig": {
@@ -8494,7 +8494,7 @@
     },
     "widget_45": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 6",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/G1SWf0\" target=\"_blank\" data-uniqueid=\"01f8efc6_b753_8dd5_92d4_1dbab87a3d95\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2FG1SWf0%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8506,7 +8506,7 @@
     },
     "widget_46": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 7",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/X8b8f\" target=\"_blank\" data-uniqueid=\"5d9f2175_46a1_c57e_7819_16bec32d97ba\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2FX8b8f%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8518,7 +8518,7 @@
     },
     "widget_47": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 8",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/11P8r80\" target=\"_blank\" data-uniqueid=\"37f8c6fb_10a5_5387_c863_42960eadd438\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F11P8r80%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8530,7 +8530,7 @@
     },
     "widget_48": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 9",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/0DjbXX2\" target=\"_blank\" data-uniqueid=\"10a30fdf_2359_af75_f6e7_0ccc6f0865c1\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F0DjbXX2%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8542,7 +8542,7 @@
     },
     "widget_49": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 10",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/1Kqarj0\" target=\"_blank\" data-uniqueid=\"6aba476a_f6f3_b2b9_da60_86977846029c\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F1Kqarj0%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8662,7 +8662,7 @@
     },
     "widget_56": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 11",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/LGPnf\" target=\"_blank\" data-uniqueid=\"62b9ff4a_b2e2_d9f5_5c4c_fc58ffe185f4\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2FLGPnf%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8674,7 +8674,7 @@
     },
     "widget_57": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 12",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/fnOnj\" target=\"_blank\" data-uniqueid=\"8a1260a1_c1e4_6560_936f_3857b6c93977\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2FfnOnj%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8686,7 +8686,7 @@
     },
     "widget_58": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 13",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/1i4W480\" target=\"_blank\" data-uniqueid=\"3c127fb8_9e0f_d7d8_14c9_fb58a2019dfb\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F1i4W480%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8698,7 +8698,7 @@
     },
     "widget_59": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 14",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/yXjCH\" target=\"_top\" data-uniqueid=\"b248aa33_a684_160c_805e_9a9aa10d74c3\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_top%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2FyXjCH%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8710,7 +8710,7 @@
     },
     "widget_60": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 15",
       "config": {
         "text": "<p style=\"text-align: center;\"><a href=\"https://arcg.is/0LLmC90\" target=\"_blank\" data-uniqueid=\"9267dbc7_94e7_200a_b482_eb92fe75c1ab\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Farcg.is%2F0LLmC90%22%2C%22expression%22%3Anull%7D\">Survey</a></p>",
@@ -8722,7 +8722,7 @@
     },
     "widget_63": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed",
       "config": {
         "embedType": "url",
@@ -8757,7 +8757,7 @@
     },
     "widget_83": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 2",
       "config": {
         "embedType": "url",
@@ -8770,7 +8770,7 @@
     },
     "widget_90": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "BNSF HASP",
       "config": {
         "functionConfig": {
@@ -8791,7 +8791,7 @@
     },
     "widget_91": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "WRI HASP",
       "config": {
         "functionConfig": {
@@ -8812,7 +8812,7 @@
     },
     "widget_99": {
       "uri": "widgets/common/image/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Image 18",
       "config": {
         "functionConfig": {
@@ -8846,1965 +8846,7 @@
       "version": "1.19.0",
       "label": "Table",
       "config": {
-        "layersConfig": [
-          {
-            "id": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137-dataView_1-3",
-            "name": "2026 HASP",
-            "useDataSource": {
-              "dataSourceId": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137-dataView_1",
-              "mainDataSourceId": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_22",
-              "fields": [
-                "project_name",
-                "date",
-                "safety_officer",
-                "sofr_phone",
-                "weather_conditions",
-                "hospital_name",
-                "hospital_phone",
-                "protection_type",
-                "track_numbers",
-                "track_limits_start",
-                "track_limits_end",
-                "track_time_start",
-                "track_time_end",
-                "eic_name",
-                "eic_phone"
-              ]
-            },
-            "allFields": [
-              {
-                "jimuName": "objectid",
-                "name": "objectid",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeOID",
-                "alias": "ObjectID",
-                "format": {
-                  "digitSeparator": false,
-                  "places": 0
-                }
-              },
-              {
-                "jimuName": "globalid",
-                "name": "globalid",
-                "type": "STRING",
-                "esriType": "esriFieldTypeGlobalID",
-                "alias": "GlobalID",
-                "format": null
-              },
-              {
-                "jimuName": "logo",
-                "name": "logo",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "logo",
-                "format": null
-              },
-              {
-                "jimuName": "note",
-                "name": "note",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Complete sections applicable to the incident. Final HASP will be sent to your email. Use final hasp to provide a safety briefing.",
-                "format": null
-              },
-              {
-                "jimuName": "project_name",
-                "name": "project_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project Name",
-                "format": null
-              },
-              {
-                "jimuName": "date",
-                "name": "date",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Date",
-                "format": null
-              },
-              {
-                "jimuName": "location",
-                "name": "location",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Location",
-                "format": null
-              },
-              {
-                "jimuName": "mp_track",
-                "name": "mp_track",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Milepost/Track Number",
-                "format": null
-              },
-              {
-                "jimuName": "full_name",
-                "name": "full_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "WRI Employee Name",
-                "format": null
-              },
-              {
-                "jimuName": "other_name",
-                "name": "other_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Name",
-                "format": null
-              },
-              {
-                "jimuName": "email",
-                "name": "email",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Your Email",
-                "format": null
-              },
-              {
-                "jimuName": "op_start",
-                "name": "op_start",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Operational Period Start",
-                "format": null
-              },
-              {
-                "jimuName": "op_end",
-                "name": "op_end",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Operational Period End",
-                "format": null
-              },
-              {
-                "jimuName": "project_lead",
-                "name": "project_lead",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project Lead",
-                "format": null
-              },
-              {
-                "jimuName": "other_pl",
-                "name": "other_pl",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Lead Name",
-                "format": null
-              },
-              {
-                "jimuName": "lead_phone",
-                "name": "lead_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Lead Cell Phone",
-                "format": null
-              },
-              {
-                "jimuName": "safety_officer",
-                "name": "safety_officer",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Safety Officer",
-                "format": null
-              },
-              {
-                "jimuName": "other_sofr",
-                "name": "other_sofr",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other SOFR Name",
-                "format": null
-              },
-              {
-                "jimuName": "sofr_phone",
-                "name": "sofr_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "SOFR Cell Phone",
-                "format": null
-              },
-              {
-                "jimuName": "asst_safety_officer",
-                "name": "asst_safety_officer",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Assistant Safety Officer",
-                "format": null
-              },
-              {
-                "jimuName": "other_asofr",
-                "name": "other_asofr",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other ASOFR Name",
-                "format": null
-              },
-              {
-                "jimuName": "aso_phone",
-                "name": "aso_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "ASOFR Cell Phone",
-                "format": null
-              },
-              {
-                "jimuName": "operations_officer",
-                "name": "operations_officer",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Operations Officer",
-                "format": null
-              },
-              {
-                "jimuName": "other_osc",
-                "name": "other_osc",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other OSC Name",
-                "format": null
-              },
-              {
-                "jimuName": "osc_phone",
-                "name": "osc_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "OSC Cell Phone",
-                "format": null
-              },
-              {
-                "jimuName": "temperature",
-                "name": "temperature",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeDouble",
-                "alias": "Temperature (°F)",
-                "format": {
-                  "digitSeparator": true,
-                  "places": 2
-                }
-              },
-              {
-                "jimuName": "wind_speed",
-                "name": "wind_speed",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeDouble",
-                "alias": "Wind Speed",
-                "format": {
-                  "digitSeparator": true,
-                  "places": 2
-                }
-              },
-              {
-                "jimuName": "wind_direction",
-                "name": "wind_direction",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Wind Direction",
-                "format": null
-              },
-              {
-                "jimuName": "weather_conditions",
-                "name": "weather_conditions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Weather Conditions",
-                "format": null
-              },
-              {
-                "jimuName": "humidity",
-                "name": "humidity",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Humidity (%)",
-                "format": null
-              },
-              {
-                "jimuName": "stop_work",
-                "name": "stop_work",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Briefing:",
-                "format": null
-              },
-              {
-                "jimuName": "hospital_name",
-                "name": "hospital_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Hospital Name",
-                "format": null
-              },
-              {
-                "jimuName": "hospital_phone",
-                "name": "hospital_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Hospital Phone",
-                "format": null
-              },
-              {
-                "jimuName": "emergency_meeting_location",
-                "name": "emergency_meeting_location",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Emergency Meeting Location",
-                "format": null
-              },
-              {
-                "jimuName": "evacuation_route",
-                "name": "evacuation_route",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Evacuation Route",
-                "format": null
-              },
-              {
-                "jimuName": "first_aid_kit",
-                "name": "first_aid_kit",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "First Aid Kit Location",
-                "format": null
-              },
-              {
-                "jimuName": "aed",
-                "name": "aed",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "AED",
-                "format": null
-              },
-              {
-                "jimuName": "litter",
-                "name": "litter",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Litter",
-                "format": null
-              },
-              {
-                "jimuName": "cpr_assigned",
-                "name": "cpr_assigned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "CPR Assigned To",
-                "format": null
-              },
-              {
-                "jimuName": "first_aid_assigned",
-                "name": "first_aid_assigned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "First Aid Assigned To",
-                "format": null
-              },
-              {
-                "jimuName": "call_911_assigned",
-                "name": "call_911_assigned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "911 Call Assigned To",
-                "format": null
-              },
-              {
-                "jimuName": "hazard_types",
-                "name": "hazard_types",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Hazard Types Present",
-                "format": null
-              },
-              {
-                "jimuName": "hazard_description_other",
-                "name": "hazard_description_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Describe Other",
-                "format": null
-              },
-              {
-                "jimuName": "ppe_level",
-                "name": "ppe_level",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "PPE Level Required for entry",
-                "format": null
-              },
-              {
-                "jimuName": "ppe_equip",
-                "name": "ppe_equip",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "PPE",
-                "format": null
-              },
-              {
-                "jimuName": "other_ppe",
-                "name": "other_ppe",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other PPE:",
-                "format": null
-              },
-              {
-                "jimuName": "ff_cartridge_type",
-                "name": "ff_cartridge_type",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Air Purifying Respirator FF (Cartridge Type):",
-                "format": null
-              },
-              {
-                "jimuName": "hf_cartidge_type",
-                "name": "hf_cartidge_type",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Air Purifying Respirator HF (Cartridge Type):",
-                "format": null
-              },
-              {
-                "jimuName": "track_type",
-                "name": "track_type",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Type",
-                "format": null
-              },
-              {
-                "jimuName": "track_speed",
-                "name": "track_speed",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeDouble",
-                "alias": "Track Speed",
-                "format": {
-                  "digitSeparator": true,
-                  "places": 2
-                }
-              },
-              {
-                "jimuName": "protection_type",
-                "name": "protection_type",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection Type",
-                "format": null
-              },
-              {
-                "jimuName": "track_numbers",
-                "name": "track_numbers",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Number(s)",
-                "format": null
-              },
-              {
-                "jimuName": "track_limits_start",
-                "name": "track_limits_start",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Limits (Start)",
-                "format": null
-              },
-              {
-                "jimuName": "track_limits_end",
-                "name": "track_limits_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Limits (End)",
-                "format": null
-              },
-              {
-                "jimuName": "track_time_start",
-                "name": "track_time_start",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection Start Time",
-                "format": null
-              },
-              {
-                "jimuName": "track_time_end",
-                "name": "track_time_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection End Time",
-                "format": null
-              },
-              {
-                "jimuName": "adjacent_track",
-                "name": "adjacent_track",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Adjacent Track Protection Required?",
-                "format": null
-              },
-              {
-                "jimuName": "adjacent_track_limits_st",
-                "name": "adjacent_track_limits_st",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Adjacent Track Limits (Start)",
-                "format": null
-              },
-              {
-                "jimuName": "adjacent_track_limits_end",
-                "name": "adjacent_track_limits_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Adjacent Track Limits (End)",
-                "format": null
-              },
-              {
-                "jimuName": "adjacent_time_start",
-                "name": "adjacent_time_start",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Adjacent Track Start Time",
-                "format": null
-              },
-              {
-                "jimuName": "adjacent_time_end",
-                "name": "adjacent_time_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Adjacent Track End Time",
-                "format": null
-              },
-              {
-                "jimuName": "eic_name",
-                "name": "eic_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Employee in Charge Name",
-                "format": null
-              },
-              {
-                "jimuName": "eic_phone",
-                "name": "eic_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "EIC Phone",
-                "format": null
-              },
-              {
-                "jimuName": "response",
-                "name": "response",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Brief Description of Plan",
-                "format": null
-              },
-              {
-                "jimuName": "safety_briefing_time",
-                "name": "safety_briefing_time",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Time",
-                "format": null
-              },
-              {
-                "jimuName": "hasp_notes",
-                "name": "hasp_notes",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Describe:",
-                "format": null
-              },
-              {
-                "jimuName": "CreationDate",
-                "name": "CreationDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "CreationDate",
-                "format": null
-              },
-              {
-                "jimuName": "Creator",
-                "name": "Creator",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Creator",
-                "format": null
-              },
-              {
-                "jimuName": "EditDate",
-                "name": "EditDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "EditDate",
-                "format": null
-              },
-              {
-                "jimuName": "Editor",
-                "name": "Editor",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Editor",
-                "format": null
-              },
-              {
-                "jimuName": "website_weather",
-                "name": "website_weather",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "NWS GIS Weather",
-                "format": null
-              },
-              {
-                "jimuName": "client_name",
-                "name": "client_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Client Name",
-                "format": null
-              },
-              {
-                "jimuName": "other_client",
-                "name": "other_client",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Client Name",
-                "format": null
-              }
-            ],
-            "tableFields": [
-              {
-                "jimuName": "project_name",
-                "name": "project_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "date",
-                "name": "date",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Date",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "safety_officer",
-                "name": "safety_officer",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Safety Officer",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "sofr_phone",
-                "name": "sofr_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "SOFR Cell Phone",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "weather_conditions",
-                "name": "weather_conditions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Weather Conditions",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "hospital_name",
-                "name": "hospital_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Hospital Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "hospital_phone",
-                "name": "hospital_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Hospital Phone",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "protection_type",
-                "name": "protection_type",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection Type",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "track_numbers",
-                "name": "track_numbers",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Number(s)",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "track_limits_start",
-                "name": "track_limits_start",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Limits (Start)",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "track_limits_end",
-                "name": "track_limits_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Limits (End)",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "track_time_start",
-                "name": "track_time_start",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection Start Time",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "track_time_end",
-                "name": "track_time_end",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Track Protection End Time",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "eic_name",
-                "name": "eic_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Employee in Charge Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "eic_phone",
-                "name": "eic_phone",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "EIC Phone",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              }
-            ],
-            "overrideGeneralSettings": false,
-            "enableAttachments": false,
-            "enableEdit": false,
-            "allowCsv": false,
-            "enableSearch": false,
-            "searchFields": [],
-            "enableRefresh": true,
-            "enableShowHideColumn": true,
-            "enableSelect": true,
-            "enableDelete": false,
-            "selectMode": "SINGLE",
-            "showCount": true,
-            "headerFontSetting": {
-              "backgroundColor": "",
-              "fontSize": 14,
-              "bold": false,
-              "color": ""
-            },
-            "columnSetting": {
-              "responsiveType": "FIXED",
-              "columnWidth": 200,
-              "wrapText": false,
-              "textAlign": "start"
-            },
-            "layerHonorMode": "WEBMAP"
-          },
-          {
-            "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67-dataView_1-4",
-            "name": "2026 Observations",
-            "useDataSource": {
-              "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67-dataView_1",
-              "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_22",
-              "fields": [
-                "project",
-                "observation_datetime",
-                "name_wri",
-                "observations_wri",
-                "obs_riv_hazards",
-                "description"
-              ]
-            },
-            "allFields": [
-              {
-                "jimuName": "objectid",
-                "name": "objectid",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeOID",
-                "alias": "ObjectID",
-                "format": {
-                  "digitSeparator": false,
-                  "places": 0
-                }
-              },
-              {
-                "jimuName": "globalid",
-                "name": "globalid",
-                "type": "STRING",
-                "esriType": "esriFieldTypeGlobalID",
-                "alias": "GlobalID",
-                "format": null
-              },
-              {
-                "jimuName": "logo",
-                "name": "logo",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "logo",
-                "format": null
-              },
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null
-              },
-              {
-                "jimuName": "wri",
-                "name": "wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Are you a WRI Employee?",
-                "format": null
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "other_name",
-                "name": "other_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "observations_wri",
-                "name": "observations_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other_wri",
-                "name": "observations_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "obs_riv_hazards",
-                "name": "obs_riv_hazards",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "River Hazards",
-                "format": null
-              },
-              {
-                "jimuName": "injuries_wri",
-                "name": "injuries_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other_wri",
-                "name": "observations_copy_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_wri",
-                "name": "response_actions_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other_wri",
-                "name": "response_actions_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "name",
-                "name": "name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation",
-                "name": "affiliation",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation",
-                "format": null
-              },
-              {
-                "jimuName": "untitled_question_8_other",
-                "name": "untitled_question_8_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation_description",
-                "name": "affiliation_description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation Description",
-                "format": null
-              },
-              {
-                "jimuName": "observations",
-                "name": "observations",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other",
-                "name": "observations_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "injuries",
-                "name": "injuries",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other",
-                "name": "observations_copy_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions",
-                "name": "response_actions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other",
-                "name": "response_actions_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null
-              },
-              {
-                "jimuName": "CreationDate",
-                "name": "CreationDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "CreationDate",
-                "format": null
-              },
-              {
-                "jimuName": "Creator",
-                "name": "Creator",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Creator",
-                "format": null
-              },
-              {
-                "jimuName": "EditDate",
-                "name": "EditDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "EditDate",
-                "format": null
-              },
-              {
-                "jimuName": "Editor",
-                "name": "Editor",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Editor",
-                "format": null
-              },
-              {
-                "jimuName": "client_name",
-                "name": "client_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "client_other",
-                "name": "client_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "current_planned",
-                "name": "current_planned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Current or Planned?",
-                "format": null
-              },
-              {
-                "jimuName": "instructions",
-                "name": "instructions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Make only one selection from categories below: Observation, Injuries, or Response Actions",
-                "format": null
-              }
-            ],
-            "tableFields": [
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "observations_wri",
-                "name": "observations_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "obs_riv_hazards",
-                "name": "obs_riv_hazards",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "River Hazards",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              }
-            ],
-            "overrideGeneralSettings": false,
-            "enableAttachments": false,
-            "enableEdit": false,
-            "allowCsv": false,
-            "enableSearch": false,
-            "searchFields": [],
-            "enableRefresh": true,
-            "enableShowHideColumn": true,
-            "enableSelect": true,
-            "enableDelete": false,
-            "selectMode": "SINGLE",
-            "showCount": true,
-            "headerFontSetting": {
-              "backgroundColor": "",
-              "fontSize": 14,
-              "bold": false,
-              "color": ""
-            },
-            "columnSetting": {
-              "responsiveType": "FIXED",
-              "columnWidth": 200,
-              "wrapText": false,
-              "textAlign": "start"
-            },
-            "layerHonorMode": "WEBMAP"
-          },
-          {
-            "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160-dataView_1-5",
-            "name": "2026 Safety",
-            "useDataSource": {
-              "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160-dataView_1",
-              "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_22",
-              "fields": [
-                "project",
-                "observation_datetime",
-                "name_wri",
-                "injuries_wri",
-                "description"
-              ]
-            },
-            "allFields": [
-              {
-                "jimuName": "objectid",
-                "name": "objectid",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeOID",
-                "alias": "ObjectID",
-                "format": {
-                  "digitSeparator": false,
-                  "places": 0
-                }
-              },
-              {
-                "jimuName": "globalid",
-                "name": "globalid",
-                "type": "STRING",
-                "esriType": "esriFieldTypeGlobalID",
-                "alias": "GlobalID",
-                "format": null
-              },
-              {
-                "jimuName": "logo",
-                "name": "logo",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "logo",
-                "format": null
-              },
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null
-              },
-              {
-                "jimuName": "wri",
-                "name": "wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Are you a WRI Employee?",
-                "format": null
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "other_name",
-                "name": "other_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "observations_wri",
-                "name": "observations_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other_wri",
-                "name": "observations_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "obs_riv_hazards",
-                "name": "obs_riv_hazards",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "River Hazards",
-                "format": null
-              },
-              {
-                "jimuName": "injuries_wri",
-                "name": "injuries_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other_wri",
-                "name": "observations_copy_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_wri",
-                "name": "response_actions_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other_wri",
-                "name": "response_actions_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "name",
-                "name": "name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation",
-                "name": "affiliation",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation",
-                "format": null
-              },
-              {
-                "jimuName": "untitled_question_8_other",
-                "name": "untitled_question_8_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation_description",
-                "name": "affiliation_description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation Description",
-                "format": null
-              },
-              {
-                "jimuName": "observations",
-                "name": "observations",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other",
-                "name": "observations_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "injuries",
-                "name": "injuries",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other",
-                "name": "observations_copy_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions",
-                "name": "response_actions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other",
-                "name": "response_actions_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null
-              },
-              {
-                "jimuName": "CreationDate",
-                "name": "CreationDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "CreationDate",
-                "format": null
-              },
-              {
-                "jimuName": "Creator",
-                "name": "Creator",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Creator",
-                "format": null
-              },
-              {
-                "jimuName": "EditDate",
-                "name": "EditDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "EditDate",
-                "format": null
-              },
-              {
-                "jimuName": "Editor",
-                "name": "Editor",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Editor",
-                "format": null
-              },
-              {
-                "jimuName": "client_name",
-                "name": "client_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "client_other",
-                "name": "client_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "current_planned",
-                "name": "current_planned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Current or Planned?",
-                "format": null
-              },
-              {
-                "jimuName": "instructions",
-                "name": "instructions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Make only one selection from categories below: Observation, Injuries, or Response Actions",
-                "format": null
-              }
-            ],
-            "tableFields": [
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "injuries_wri",
-                "name": "injuries_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              }
-            ],
-            "overrideGeneralSettings": false,
-            "enableAttachments": false,
-            "enableEdit": false,
-            "allowCsv": false,
-            "enableSearch": false,
-            "searchFields": [],
-            "enableRefresh": true,
-            "enableShowHideColumn": true,
-            "enableSelect": true,
-            "enableDelete": false,
-            "selectMode": "SINGLE",
-            "showCount": true,
-            "headerFontSetting": {
-              "backgroundColor": "",
-              "fontSize": 14,
-              "bold": false,
-              "color": ""
-            },
-            "columnSetting": {
-              "responsiveType": "FIXED",
-              "columnWidth": 200,
-              "wrapText": false,
-              "textAlign": "start"
-            },
-            "layerHonorMode": "WEBMAP"
-          },
-          {
-            "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162-dataView_1-6",
-            "name": "2026 Response Actions",
-            "useDataSource": {
-              "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162-dataView_1",
-              "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_22",
-              "fields": [
-                "project",
-                "observation_datetime",
-                "name_wri",
-                "response_actions_wri",
-                "description"
-              ]
-            },
-            "allFields": [
-              {
-                "jimuName": "objectid",
-                "name": "objectid",
-                "type": "NUMBER",
-                "esriType": "esriFieldTypeOID",
-                "alias": "ObjectID",
-                "format": {
-                  "digitSeparator": false,
-                  "places": 0
-                }
-              },
-              {
-                "jimuName": "globalid",
-                "name": "globalid",
-                "type": "STRING",
-                "esriType": "esriFieldTypeGlobalID",
-                "alias": "GlobalID",
-                "format": null
-              },
-              {
-                "jimuName": "logo",
-                "name": "logo",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "logo",
-                "format": null
-              },
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null
-              },
-              {
-                "jimuName": "wri",
-                "name": "wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Are you a WRI Employee?",
-                "format": null
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "other_name",
-                "name": "other_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "observations_wri",
-                "name": "observations_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other_wri",
-                "name": "observations_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "obs_riv_hazards",
-                "name": "obs_riv_hazards",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "River Hazards",
-                "format": null
-              },
-              {
-                "jimuName": "injuries_wri",
-                "name": "injuries_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other_wri",
-                "name": "observations_copy_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_wri",
-                "name": "response_actions_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other_wri",
-                "name": "response_actions_other_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "name",
-                "name": "name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation",
-                "name": "affiliation",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation",
-                "format": null
-              },
-              {
-                "jimuName": "untitled_question_8_other",
-                "name": "untitled_question_8_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "affiliation_description",
-                "name": "affiliation_description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Affiliation Description",
-                "format": null
-              },
-              {
-                "jimuName": "observations",
-                "name": "observations",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Observations",
-                "format": null
-              },
-              {
-                "jimuName": "observations_other",
-                "name": "observations_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "injuries",
-                "name": "injuries",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Injuries",
-                "format": null
-              },
-              {
-                "jimuName": "observations_copy_other",
-                "name": "observations_copy_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions",
-                "name": "response_actions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null
-              },
-              {
-                "jimuName": "response_actions_other",
-                "name": "response_actions_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other",
-                "format": null
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null
-              },
-              {
-                "jimuName": "CreationDate",
-                "name": "CreationDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "CreationDate",
-                "format": null
-              },
-              {
-                "jimuName": "Creator",
-                "name": "Creator",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Creator",
-                "format": null
-              },
-              {
-                "jimuName": "EditDate",
-                "name": "EditDate",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "EditDate",
-                "format": null
-              },
-              {
-                "jimuName": "Editor",
-                "name": "Editor",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Editor",
-                "format": null
-              },
-              {
-                "jimuName": "client_name",
-                "name": "client_name",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "client_other",
-                "name": "client_other",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Other Client Name:",
-                "format": null
-              },
-              {
-                "jimuName": "current_planned",
-                "name": "current_planned",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Current or Planned?",
-                "format": null
-              },
-              {
-                "jimuName": "instructions",
-                "name": "instructions",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Make only one selection from categories below: Observation, Injuries, or Response Actions",
-                "format": null
-              }
-            ],
-            "tableFields": [
-              {
-                "jimuName": "project",
-                "name": "project",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Project",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "observation_datetime",
-                "name": "observation_datetime",
-                "type": "DATE",
-                "esriType": "esriFieldTypeDate",
-                "alias": "Observation Date/Time",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "name_wri",
-                "name": "name_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Name",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "response_actions_wri",
-                "name": "response_actions_wri",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Response Actions",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              },
-              {
-                "jimuName": "description",
-                "name": "description",
-                "type": "STRING",
-                "esriType": "esriFieldTypeString",
-                "alias": "Description",
-                "format": null,
-                "editAuthority": true,
-                "editable": true,
-                "visible": true
-              }
-            ],
-            "overrideGeneralSettings": false,
-            "enableAttachments": false,
-            "enableEdit": false,
-            "allowCsv": false,
-            "enableSearch": false,
-            "searchFields": [],
-            "enableRefresh": true,
-            "enableShowHideColumn": true,
-            "enableSelect": true,
-            "enableDelete": false,
-            "selectMode": "SINGLE",
-            "showCount": true,
-            "headerFontSetting": {
-              "backgroundColor": "",
-              "fontSize": 14,
-              "bold": false,
-              "color": ""
-            },
-            "columnSetting": {
-              "responsiveType": "FIXED",
-              "columnWidth": 200,
-              "wrapText": false,
-              "textAlign": "start"
-            },
-            "layerHonorMode": "WEBMAP"
-          }
-        ],
+        "layersConfig": [],
         "mapViewsConfig": {},
         "tableMode": "LAYER",
         "enableMapExtentFilter": false,
@@ -10835,71 +8877,7 @@
         "pageSize": 50
       },
       "id": "widget_100",
-      "useDataSources": [
-        {
-          "dataSourceId": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137-dataView_1",
-          "mainDataSourceId": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137",
-          "dataViewId": "dataView_1",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "project_name",
-            "date",
-            "safety_officer",
-            "sofr_phone",
-            "weather_conditions",
-            "hospital_name",
-            "hospital_phone",
-            "protection_type",
-            "track_numbers",
-            "track_limits_start",
-            "track_limits_end",
-            "track_time_start",
-            "track_time_end",
-            "eic_name",
-            "eic_phone"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67-dataView_1",
-          "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67",
-          "dataViewId": "dataView_1",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "project",
-            "observation_datetime",
-            "name_wri",
-            "observations_wri",
-            "obs_riv_hazards",
-            "description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160-dataView_1",
-          "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160",
-          "dataViewId": "dataView_1",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "project",
-            "observation_datetime",
-            "name_wri",
-            "injuries_wri",
-            "description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162-dataView_1",
-          "mainDataSourceId": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162",
-          "dataViewId": "dataView_1",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "project",
-            "observation_datetime",
-            "name_wri",
-            "response_actions_wri",
-            "description"
-          ]
-        }
-      ],
+      "useDataSources": [],
       "useMapWidgetIds": [
         "widget_1"
       ],
@@ -10973,7 +8951,7 @@
     },
     "widget_101": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar",
       "config": {
         "direction": "HORIZONTAL",
@@ -11048,7 +9026,7 @@
     },
     "widget_102": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar",
       "config": {
         "direction": "HORIZONTAL",
@@ -11123,7 +9101,7 @@
     },
     "widget_103": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Weather",
       "config": {
         "embedType": "url",
@@ -11135,7 +9113,7 @@
     },
     "widget_104": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 20",
       "config": {
         "text": "<p><span style=\"font-size: 30px;\">2026 WRI Initial Response Viewer</span></p>",
@@ -11147,7 +9125,7 @@
     },
     "widget_107": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 4",
       "config": {
         "embedType": "url",
@@ -12653,7 +10631,7 @@
     },
     "widget_114": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Surveys",
       "config": {
         "direction": "HORIZONTAL",
@@ -12754,7 +10732,7 @@
     },
     "widget_117": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out",
       "config": {
         "functionConfig": {
@@ -12793,7 +10771,7 @@
     },
     "widget_118": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 17",
       "config": {
         "functionConfig": {
@@ -12827,7 +10805,7 @@
     },
     "widget_119": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 18",
       "config": {
         "functionConfig": {
@@ -12861,7 +10839,7 @@
     },
     "widget_120": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 19",
       "config": {
         "functionConfig": {
@@ -12895,7 +10873,7 @@
     },
     "widget_121": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 20",
       "config": {
         "functionConfig": {
@@ -12929,7 +10907,7 @@
     },
     "widget_122": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 21",
       "config": {
         "functionConfig": {
@@ -12968,7 +10946,7 @@
     },
     "widget_123": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 22",
       "config": {
         "functionConfig": {
@@ -13007,7 +10985,7 @@
     },
     "widget_124": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 23",
       "config": {
         "functionConfig": {
@@ -13046,7 +11024,7 @@
     },
     "widget_125": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 24",
       "config": {
         "functionConfig": {
@@ -13085,7 +11063,7 @@
     },
     "widget_126": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 25",
       "config": {
         "functionConfig": {
@@ -13124,7 +11102,7 @@
     },
     "widget_127": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 26",
       "config": {
         "functionConfig": {
@@ -13163,7 +11141,7 @@
     },
     "widget_128": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 27",
       "config": {
         "functionConfig": {
@@ -13225,7 +11203,7 @@
     },
     "widget_139": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Surveys 2",
       "config": {
         "direction": "HORIZONTAL",
@@ -13299,7 +11277,7 @@
     },
     "widget_140": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 2",
       "config": {
         "functionConfig": {
@@ -13338,7 +11316,7 @@
     },
     "widget_141": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 28",
       "config": {
         "functionConfig": {
@@ -13372,7 +11350,7 @@
     },
     "widget_142": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 29",
       "config": {
         "functionConfig": {
@@ -13406,7 +11384,7 @@
     },
     "widget_143": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 30",
       "config": {
         "functionConfig": {
@@ -13440,7 +11418,7 @@
     },
     "widget_144": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 31",
       "config": {
         "functionConfig": {
@@ -13474,7 +11452,7 @@
     },
     "widget_145": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 32",
       "config": {
         "functionConfig": {
@@ -13513,7 +11491,7 @@
     },
     "widget_146": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 33",
       "config": {
         "functionConfig": {
@@ -13552,7 +11530,7 @@
     },
     "widget_147": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 34",
       "config": {
         "functionConfig": {
@@ -13591,7 +11569,7 @@
     },
     "widget_148": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 35",
       "config": {
         "functionConfig": {
@@ -13630,7 +11608,7 @@
     },
     "widget_149": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 36",
       "config": {
         "functionConfig": {
@@ -13669,7 +11647,7 @@
     },
     "widget_150": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 37",
       "config": {
         "functionConfig": {
@@ -13708,7 +11686,7 @@
     },
     "widget_151": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 38",
       "config": {
         "functionConfig": {
@@ -13747,7 +11725,7 @@
     },
     "widget_152": {
       "uri": "widgets/arcgis/arcgis-map/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Map 2",
       "config": {
         "toolConfig": {
@@ -13863,7 +11841,7 @@
     },
     "widget_153": {
       "uri": "widgets/arcgis/coordinates/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "offPanel": true,
       "label": "Coordinates 2",
       "config": {
@@ -13904,7 +11882,7 @@
     },
     "widget_154": {
       "uri": "widgets/common/controller/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Widget Controller 2",
       "config": {
         "behavior": {
@@ -15294,7 +13272,7 @@
     },
     "widget_162": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 2",
       "config": {
         "direction": "HORIZONTAL",
@@ -15369,7 +13347,7 @@
     },
     "widget_163": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-(1&2) 2",
       "config": {
         "functionConfig": {
@@ -15395,7 +13373,7 @@
     },
     "widget_164": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-3 2",
       "config": {
         "functionConfig": {
@@ -15416,7 +13394,7 @@
     },
     "widget_165": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-4 2",
       "config": {
         "functionConfig": {
@@ -15437,7 +13415,7 @@
     },
     "widget_166": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "HASP 2",
       "config": {
         "functionConfig": {
@@ -15463,7 +13441,7 @@
     },
     "widget_167": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Recon 2",
       "config": {
         "functionConfig": {
@@ -15485,7 +13463,7 @@
     },
     "widget_168": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Vessel Ops 2",
       "config": {
         "functionConfig": {
@@ -15507,7 +13485,7 @@
     },
     "widget_169": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Air Ops 2",
       "config": {
         "functionConfig": {
@@ -15533,7 +13511,7 @@
     },
     "widget_170": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 215",
       "config": {
         "functionConfig": {
@@ -15555,7 +13533,7 @@
     },
     "widget_171": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 216",
       "config": {
         "functionConfig": {
@@ -15586,7 +13564,7 @@
     },
     "widget_172": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 217",
       "config": {
         "functionConfig": {
@@ -15617,7 +13595,7 @@
     },
     "widget_173": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 213RR 2",
       "config": {
         "functionConfig": {
@@ -15639,7 +13617,7 @@
     },
     "widget_174": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 39",
       "config": {
         "functionConfig": {
@@ -15661,7 +13639,7 @@
     },
     "widget_175": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 3",
       "config": {
         "functionConfig": {
@@ -15695,7 +13673,7 @@
     },
     "widget_176": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 3",
       "config": {
         "direction": "HORIZONTAL",
@@ -15770,7 +13748,7 @@
     },
     "widget_177": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Weather 2",
       "config": {
         "embedType": "url",
@@ -15793,7 +13771,7 @@
     },
     "widget_179": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Surveys 3",
       "config": {
         "direction": "HORIZONTAL",
@@ -15867,7 +13845,7 @@
     },
     "widget_180": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 4",
       "config": {
         "functionConfig": {
@@ -15906,7 +13884,7 @@
     },
     "widget_181": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 40",
       "config": {
         "functionConfig": {
@@ -15940,7 +13918,7 @@
     },
     "widget_182": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 41",
       "config": {
         "functionConfig": {
@@ -15974,7 +13952,7 @@
     },
     "widget_183": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 42",
       "config": {
         "functionConfig": {
@@ -16008,7 +13986,7 @@
     },
     "widget_184": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 43",
       "config": {
         "functionConfig": {
@@ -16042,7 +14020,7 @@
     },
     "widget_185": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 44",
       "config": {
         "functionConfig": {
@@ -16081,7 +14059,7 @@
     },
     "widget_186": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 45",
       "config": {
         "functionConfig": {
@@ -16120,7 +14098,7 @@
     },
     "widget_187": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 46",
       "config": {
         "functionConfig": {
@@ -16159,7 +14137,7 @@
     },
     "widget_188": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 47",
       "config": {
         "functionConfig": {
@@ -16198,7 +14176,7 @@
     },
     "widget_189": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 48",
       "config": {
         "functionConfig": {
@@ -16237,7 +14215,7 @@
     },
     "widget_190": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 49",
       "config": {
         "functionConfig": {
@@ -16276,7 +14254,7 @@
     },
     "widget_191": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 50",
       "config": {
         "functionConfig": {
@@ -16315,7 +14293,7 @@
     },
     "widget_192": {
       "uri": "widgets/arcgis/arcgis-map/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "FRP Map",
       "config": {
         "toolConfig": {
@@ -16431,7 +14409,7 @@
     },
     "widget_193": {
       "uri": "widgets/arcgis/coordinates/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "offPanel": true,
       "label": "Coordinates 3",
       "config": {
@@ -16472,7 +14450,7 @@
     },
     "widget_194": {
       "uri": "widgets/common/controller/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Widget Controller 3",
       "config": {
         "behavior": {
@@ -17858,7 +15836,7 @@
     },
     "widget_202": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 4",
       "config": {
         "direction": "HORIZONTAL",
@@ -17933,7 +15911,7 @@
     },
     "widget_203": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-(1&2) 3",
       "config": {
         "functionConfig": {
@@ -17959,7 +15937,7 @@
     },
     "widget_204": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-3 3",
       "config": {
         "functionConfig": {
@@ -17980,7 +15958,7 @@
     },
     "widget_205": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-4 3",
       "config": {
         "functionConfig": {
@@ -18001,7 +15979,7 @@
     },
     "widget_206": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "HASP 3",
       "config": {
         "functionConfig": {
@@ -18027,7 +16005,7 @@
     },
     "widget_207": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Recon 3",
       "config": {
         "functionConfig": {
@@ -18049,7 +16027,7 @@
     },
     "widget_208": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Vessel Ops 3",
       "config": {
         "functionConfig": {
@@ -18071,7 +16049,7 @@
     },
     "widget_209": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Air Ops 3",
       "config": {
         "functionConfig": {
@@ -18097,7 +16075,7 @@
     },
     "widget_210": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 218",
       "config": {
         "functionConfig": {
@@ -18119,7 +16097,7 @@
     },
     "widget_211": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 219",
       "config": {
         "functionConfig": {
@@ -18150,7 +16128,7 @@
     },
     "widget_212": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 220",
       "config": {
         "functionConfig": {
@@ -18181,7 +16159,7 @@
     },
     "widget_213": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 213RR 3",
       "config": {
         "functionConfig": {
@@ -18203,7 +16181,7 @@
     },
     "widget_214": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 51",
       "config": {
         "functionConfig": {
@@ -18225,7 +16203,7 @@
     },
     "widget_215": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 5",
       "config": {
         "functionConfig": {
@@ -18259,7 +16237,7 @@
     },
     "widget_216": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 5",
       "config": {
         "direction": "HORIZONTAL",
@@ -18334,7 +16312,7 @@
     },
     "widget_217": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Weather 3",
       "config": {
         "embedType": "url",
@@ -18357,7 +16335,7 @@
     },
     "widget_220": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Surveys 4",
       "config": {
         "direction": "HORIZONTAL",
@@ -18431,7 +16409,7 @@
     },
     "widget_221": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 6",
       "config": {
         "functionConfig": {
@@ -18470,7 +16448,7 @@
     },
     "widget_222": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 52",
       "config": {
         "functionConfig": {
@@ -18504,7 +16482,7 @@
     },
     "widget_223": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 53",
       "config": {
         "functionConfig": {
@@ -18538,7 +16516,7 @@
     },
     "widget_224": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 54",
       "config": {
         "functionConfig": {
@@ -18572,7 +16550,7 @@
     },
     "widget_225": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 55",
       "config": {
         "functionConfig": {
@@ -18606,7 +16584,7 @@
     },
     "widget_226": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 56",
       "config": {
         "functionConfig": {
@@ -18645,7 +16623,7 @@
     },
     "widget_227": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 57",
       "config": {
         "functionConfig": {
@@ -18684,7 +16662,7 @@
     },
     "widget_228": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 58",
       "config": {
         "functionConfig": {
@@ -18723,7 +16701,7 @@
     },
     "widget_229": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 59",
       "config": {
         "functionConfig": {
@@ -18762,7 +16740,7 @@
     },
     "widget_230": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 60",
       "config": {
         "functionConfig": {
@@ -18801,7 +16779,7 @@
     },
     "widget_231": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 61",
       "config": {
         "functionConfig": {
@@ -18840,7 +16818,7 @@
     },
     "widget_232": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 62",
       "config": {
         "functionConfig": {
@@ -18879,7 +16857,7 @@
     },
     "widget_233": {
       "uri": "widgets/arcgis/arcgis-map/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Trailer Inspections",
       "config": {
         "toolConfig": {
@@ -19020,7 +16998,7 @@
     },
     "widget_234": {
       "uri": "widgets/arcgis/coordinates/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "offPanel": true,
       "label": "Coordinates 4",
       "config": {
@@ -19061,7 +17039,7 @@
     },
     "widget_235": {
       "uri": "widgets/common/controller/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Widget Controller 4",
       "config": {
         "behavior": {
@@ -20417,7 +18395,7 @@
     },
     "widget_239": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 6",
       "config": {
         "direction": "HORIZONTAL",
@@ -20492,7 +18470,7 @@
     },
     "widget_240": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-(1&2) 4",
       "config": {
         "functionConfig": {
@@ -20518,7 +18496,7 @@
     },
     "widget_241": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-3 4",
       "config": {
         "functionConfig": {
@@ -20539,7 +18517,7 @@
     },
     "widget_242": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 201-4 4",
       "config": {
         "functionConfig": {
@@ -20560,7 +18538,7 @@
     },
     "widget_243": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "HASP 4",
       "config": {
         "functionConfig": {
@@ -20586,7 +18564,7 @@
     },
     "widget_244": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Recon 4",
       "config": {
         "functionConfig": {
@@ -20608,7 +18586,7 @@
     },
     "widget_245": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Vessel Ops 4",
       "config": {
         "functionConfig": {
@@ -20630,7 +18608,7 @@
     },
     "widget_246": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Air Ops 4",
       "config": {
         "functionConfig": {
@@ -20656,7 +18634,7 @@
     },
     "widget_247": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 221",
       "config": {
         "functionConfig": {
@@ -20678,7 +18656,7 @@
     },
     "widget_248": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 222",
       "config": {
         "functionConfig": {
@@ -20709,7 +18687,7 @@
     },
     "widget_249": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 223",
       "config": {
         "functionConfig": {
@@ -20740,7 +18718,7 @@
     },
     "widget_250": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "ICS 213RR 4",
       "config": {
         "functionConfig": {
@@ -20762,7 +18740,7 @@
     },
     "widget_251": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 63",
       "config": {
         "functionConfig": {
@@ -20784,7 +18762,7 @@
     },
     "widget_252": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Check In/Out 7",
       "config": {
         "functionConfig": {
@@ -20818,7 +18796,7 @@
     },
     "widget_253": {
       "uri": "widgets/layout/sidebar/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sidebar 7",
       "config": {
         "direction": "HORIZONTAL",
@@ -20893,7 +18871,7 @@
     },
     "widget_254": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Weather 4",
       "config": {
         "embedType": "url",
@@ -22063,7 +20041,7 @@
     },
     "widget_268": {
       "uri": "widgets/common/text/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Text 21",
       "config": {
         "text": "<p><strong style=\"text-shadow: rgba(0, 0, 0, 0.1) 0px 12px 0px; color: var(--danger); font-size: 18px; background-color: var(--warning);\">Map 1: All WRI Trailers</strong></p><p><strong style=\"text-shadow: rgba(0, 0, 0, 0.1) 0px 12px 0px; color: var(--danger); font-size: 18px; background-color: var(--warning);\">Map 2: Trailer \"To Do's\"</strong></p>",
@@ -22075,7 +20053,7 @@
     },
     "widget_269": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "InciWeb",
       "config": {
         "embedType": "url",
@@ -22087,7 +20065,7 @@
     },
     "widget_270": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Watch Duty",
       "config": {
         "embedType": "url",
@@ -22193,7 +20171,7 @@
     },
     "widget_279": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Live Stream",
       "config": {
         "embedType": "url",
@@ -22206,7 +20184,7 @@
     },
     "widget_280": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Sit Stat",
       "config": {
         "embedType": "url",
@@ -22218,7 +20196,7 @@
     },
     "widget_282": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Gateway PIN (live)",
       "config": {
         "embedType": "url",
@@ -22299,7 +20277,7 @@
     },
     "widget_286": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 5",
       "config": {
         "embedType": "url",
@@ -22311,7 +20289,7 @@
     },
     "widget_287": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 6",
       "config": {
         "embedType": "url",
@@ -22323,7 +20301,7 @@
     },
     "widget_288": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 7",
       "config": {
         "embedType": "url",
@@ -22358,7 +20336,7 @@
     },
     "widget_290": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 8",
       "config": {
         "embedType": "url",
@@ -22393,7 +20371,7 @@
     },
     "widget_292": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 9",
       "config": {
         "embedType": "url",
@@ -22405,7 +20383,7 @@
     },
     "widget_293": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 64",
       "config": {
         "functionConfig": {
@@ -22429,7 +20407,7 @@
     },
     "widget_294": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 65",
       "config": {
         "functionConfig": {
@@ -22453,7 +20431,7 @@
     },
     "widget_295": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 66",
       "config": {
         "functionConfig": {
@@ -22493,7 +20471,7 @@
     },
     "widget_296": {
       "uri": "widgets/common/button/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Button 67",
       "config": {
         "functionConfig": {
@@ -22556,7 +20534,7 @@
     },
     "widget_299": {
       "uri": "widgets/common/embed/",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "label": "Embed 10",
       "config": {
         "embedType": "url",
@@ -23763,14 +21741,7 @@
     }
   },
   "attributes": {
-    "portalUrl": "https://WRIEnviro.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "NO3gI5DZBFXkhm3U",
-    "express": false,
-    "title": "WRI Response Viewer",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": null
+    "portalUrl": "https://WRIEnviro.maps.arcgis.com"
   },
   "sharedThemeVariables": null,
   "dataSources": {
@@ -25036,69 +23007,7 @@
           "id": "dataSource_22-1958bd6d52a-layer-242",
           "type": "GROUP_LAYER",
           "sourceLabel": "Documentation",
-          "childDataSourceJsons": {
-            "194ce115263-layer-137": {
-              "id": "dataSource_22-1958bd6d52a-layer-242-194ce115263-layer-137",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "WRI HASP",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-              "layerId": "0",
-              "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/0",
-              "dataViews": {
-                "dataView_1": {
-                  "id": "dataView_1",
-                  "label": "2026",
-                  "where": {
-                    "logicalOperator": "AND",
-                    "parts": [
-                      {
-                        "type": "SINGLE",
-                        "jimuFieldName": "date",
-                        "operator": "DATE_OPERATOR_IS_AFTER",
-                        "valueOptions": {
-                          "isValid": true,
-                          "sourceType": "USER_INPUT",
-                          "inputEditor": "DATE_TIME_PICKER",
-                          "value": [
-                            {
-                              "value": 1767250800000,
-                              "label": "01/1/2026, 12:00 AM",
-                              "isUTC": true
-                            }
-                          ]
-                        },
-                        "displayType": "NONE",
-                        "askForValueOptions": null,
-                        "displayLabel": null,
-                        "caseSensitive": false
-                      }
-                    ],
-                    "sql": "date > timestamp '2026-01-01 07:01:00'",
-                    "displaySQL": "(Date is after 01/1/2026, 12:00 AM)"
-                  }
-                }
-              }
-            },
-            "1948a77dde0-layer-123": {
-              "id": "dataSource_22-1958bd6d52a-layer-242-1948a77dde0-layer-123",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Vessel Operations Plan (WRI)",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "baaebc02afb5428e9d4d9b1f00c8abb1",
-              "layerId": "0",
-              "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_4adbd8bcdeac4b078d3bf7b8707d2ca6/FeatureServer/0"
-            }
-          }
-        },
-        "19c25d7f978-layer-271": {
-          "id": "dataSource_22-19c25d7f978-layer-271",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Incident Notification",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "209f0c9315d2455cb1957369706c330e",
-          "layerId": "0",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_addb9230a3874ac39e3fc8eeed879f83/FeatureServer/0"
+          "childDataSourceJsons": {}
         },
         "1958bd5ca68-layer-241": {
           "id": "dataSource_22-1958bd5ca68-layer-241",
@@ -25136,234 +23045,6 @@
                   "itemId": "5780416f95cc4d9d810f810965d365b8",
                   "layerId": "2",
                   "url": "https://locationservices6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/location_tracking/FeatureServer/2"
-                }
-              }
-            },
-            "194891ddfaf-layer-161": {
-              "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161",
-              "type": "GROUP_LAYER",
-              "sourceLabel": "WRI Recon",
-              "childDataSourceJsons": {
-                "19488d71968-layer-67": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-19488d71968-layer-67",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Observations",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0",
-                  "dataViews": {
-                    "dataView_1": {
-                      "id": "dataView_1",
-                      "label": "2026 Observations",
-                      "where": {
-                        "logicalOperator": "AND",
-                        "parts": [
-                          {
-                            "type": "SINGLE",
-                            "jimuFieldName": "observation_datetime",
-                            "operator": "DATE_OPERATOR_IS_AFTER",
-                            "valueOptions": {
-                              "isValid": true,
-                              "sourceType": "USER_INPUT",
-                              "inputEditor": "DATE_TIME_PICKER",
-                              "value": [
-                                {
-                                  "value": 1767250800000,
-                                  "label": "01/1/2026, 12:00 AM",
-                                  "isUTC": true
-                                }
-                              ]
-                            },
-                            "displayType": "NONE",
-                            "askForValueOptions": null,
-                            "displayLabel": null,
-                            "caseSensitive": false
-                          },
-                          {
-                            "type": "SINGLE",
-                            "jimuFieldName": "observations_wri",
-                            "operator": "STRING_OPERATOR_IS_NOT_BLANK",
-                            "valueOptions": {
-                              "isValid": true,
-                              "sourceType": "USER_INPUT",
-                              "inputEditor": "BLANK_SELECTOR",
-                              "value": null
-                            },
-                            "displayType": "NONE",
-                            "askForValueOptions": null,
-                            "displayLabel": null,
-                            "caseSensitive": false
-                          }
-                        ],
-                        "sql": "(observation_datetime > timestamp '2026-01-01 07:01:00') AND (observations_wri IS NOT NULL)",
-                        "displaySQL": "(Observation Date/Time is after 01/1/2026, 12:00 AM) and (Observations IS NOT NULL)"
-                      }
-                    }
-                  }
-                },
-                "1948906f529-layer-160": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-1948906f529-layer-160",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Safety",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0",
-                  "dataViews": {
-                    "dataView_1": {
-                      "id": "dataView_1",
-                      "label": "Data view 1",
-                      "where": {
-                        "logicalOperator": "AND",
-                        "parts": [
-                          {
-                            "type": "SET",
-                            "logicalOperator": "AND",
-                            "parts": [
-                              {
-                                "type": "SINGLE",
-                                "jimuFieldName": "observation_datetime",
-                                "operator": "DATE_OPERATOR_IS_AFTER",
-                                "valueOptions": {
-                                  "isValid": true,
-                                  "sourceType": "USER_INPUT",
-                                  "inputEditor": "DATE_TIME_PICKER",
-                                  "value": [
-                                    {
-                                      "value": 1767250800000,
-                                      "label": "01/1/2026, 12:00 AM",
-                                      "isUTC": true
-                                    }
-                                  ]
-                                },
-                                "displayType": "NONE",
-                                "askForValueOptions": null,
-                                "displayLabel": null,
-                                "caseSensitive": false
-                              },
-                              {
-                                "type": "SINGLE",
-                                "jimuFieldName": "injuries_wri",
-                                "operator": "STRING_OPERATOR_IS_NOT_BLANK",
-                                "valueOptions": {
-                                  "isValid": true,
-                                  "sourceType": "USER_INPUT",
-                                  "inputEditor": "BLANK_SELECTOR",
-                                  "value": null
-                                },
-                                "displayType": "NONE",
-                                "askForValueOptions": null,
-                                "displayLabel": null,
-                                "caseSensitive": false
-                              }
-                            ]
-                          }
-                        ],
-                        "sql": "(observation_datetime > timestamp '2026-01-01 07:01:00') AND (injuries_wri IS NOT NULL)",
-                        "displaySQL": "((Observation Date/Time is after 01/1/2026, 12:00 AM) and (Injuries IS NOT NULL))"
-                      }
-                    }
-                  }
-                },
-                "194891e9666-layer-162": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-194891ddfaf-layer-161-194891e9666-layer-162",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Response Actions",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0",
-                  "dataViews": {
-                    "dataView_1": {
-                      "id": "dataView_1",
-                      "label": "2026 Response Actions",
-                      "where": {
-                        "logicalOperator": "AND",
-                        "parts": [
-                          {
-                            "type": "SET",
-                            "logicalOperator": "AND",
-                            "parts": [
-                              {
-                                "type": "SINGLE",
-                                "jimuFieldName": "response_actions_wri",
-                                "operator": "STRING_OPERATOR_IS_NOT_BLANK",
-                                "valueOptions": {
-                                  "isValid": true,
-                                  "sourceType": "USER_INPUT",
-                                  "inputEditor": "BLANK_SELECTOR",
-                                  "value": null
-                                },
-                                "displayType": "NONE",
-                                "askForValueOptions": null,
-                                "displayLabel": null,
-                                "caseSensitive": false
-                              },
-                              {
-                                "type": "SINGLE",
-                                "jimuFieldName": "observation_datetime",
-                                "operator": "DATE_OPERATOR_IS_AFTER",
-                                "valueOptions": {
-                                  "isValid": true,
-                                  "sourceType": "USER_INPUT",
-                                  "inputEditor": "DATE_TIME_PICKER",
-                                  "value": [
-                                    {
-                                      "value": 1767250800000,
-                                      "label": "01/1/2026, 12:00 AM",
-                                      "isUTC": true
-                                    }
-                                  ]
-                                },
-                                "displayType": "NONE",
-                                "askForValueOptions": null,
-                                "displayLabel": null,
-                                "caseSensitive": false
-                              }
-                            ]
-                          }
-                        ],
-                        "sql": "(response_actions_wri IS NOT NULL) AND (observation_datetime > timestamp '2026-01-01 07:01:00')",
-                        "displaySQL": "((Response Actions IS NOT NULL) and (Observation Date/Time is after 01/1/2026, 12:00 AM))"
-                      }
-                    }
-                  }
-                }
-              },
-              "isHidden": false
-            },
-            "1948934e02b-layer-164": {
-              "id": "dataSource_22-1958bd5ca68-layer-241-1948934e02b-layer-164",
-              "type": "GROUP_LAYER",
-              "sourceLabel": "Recon",
-              "childDataSourceJsons": {
-                "1948933b4c5-layer-163": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-1948934e02b-layer-164-1948933b4c5-layer-163",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Observations",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0"
-                },
-                "19489a7aa1d-layer-93": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-1948934e02b-layer-164-19489a7aa1d-layer-93",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Safety",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0"
-                },
-                "19489ab6bd5-layer-94": {
-                  "id": "dataSource_22-1958bd5ca68-layer-241-1948934e02b-layer-164-19489ab6bd5-layer-94",
-                  "type": "FEATURE_LAYER",
-                  "sourceLabel": "Response Actions",
-                  "portalUrl": "https://www.arcgis.com",
-                  "itemId": "4f377ec33cb9464da6868cc92becd134",
-                  "layerId": "0",
-                  "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_5729798cb6374606a77f3a8278d19c83/FeatureServer/0"
                 }
               }
             },
@@ -26420,600 +24101,6 @@
               "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/BNSF_COMMS/FeatureServer/0"
             }
           }
-        },
-        "196c5e6d606-layer-326": {
-          "id": "dataSource_22-196c5e6d606-layer-326",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "2505 Cowlitz Resources - Resources test2.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "9aaf21dc51cc4bc19a6cb29df581c77f",
-          "layerId": "9",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/2505_Cowlitz_Resources/FeatureServer/9"
-        },
-        "195636a3fbe-layer-203": {
-          "id": "dataSource_22-195636a3fbe-layer-203",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Other",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/1"
-        },
-        "195636a3fbe-layer-202": {
-          "id": "dataSource_22-195636a3fbe-layer-202",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Osc additional",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/2"
-        },
-        "195636a3fbd-layer-201": {
-          "id": "dataSource_22-195636a3fbd-layer-201",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Tech spec",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/3"
-        },
-        "195636a3fbd-layer-200": {
-          "id": "dataSource_22-195636a3fbd-layer-200",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Psc additional",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/4"
-        },
-        "195636a3fbc-layer-199": {
-          "id": "dataSource_22-195636a3fbc-layer-199",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Lsc additional",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/5"
-        },
-        "195636a3fbc-layer-198": {
-          "id": "dataSource_22-195636a3fbc-layer-198",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "207-CG - Fasc additional",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "85f795f119a44b9d9888947f58ac3f45",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_04aa44846c694026b8122d7c6f83b156/FeatureServer/6"
-        },
-        "1954e6a974d-layer-208": {
-          "id": "dataSource_22-1954e6a974d-layer-208",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 205-CG Incident Radio Communications Plan - Rptchanbgn",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "a827955a7e474146b0a878d8c2777402",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_3f12f7340ab0469485369c8002221335/FeatureServer/1"
-        },
-        "1954e6a8701-layer-205": {
-          "id": "dataSource_22-1954e6a8701-layer-205",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 205A-EPA - Conrptbgn",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "67ad737f0c6648eca85be922b4917a5c",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_db098817e2ee4a4ebdb517c03db6d734/FeatureServer/1"
-        },
-        "1954e6a7c66-layer-202": {
-          "id": "dataSource_22-1954e6a7c66-layer-202",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Comms Plan (205) - Radio channel",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "34966d4422134840be3dc4ba62d39622",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_464b6c1c8ca448aa8a989a998976d2b2/FeatureServer/1"
-        },
-        "194ce115265-layer-140": {
-          "id": "dataSource_22-194ce115265-layer-140",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Comms",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/1"
-        },
-        "194ce115264-layer-139": {
-          "id": "dataSource_22-194ce115264-layer-139",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/2"
-        },
-        "194ce115264-layer-138": {
-          "id": "dataSource_22-194ce115264-layer-138",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/3"
-        },
-        "194ce110d0e-layer-135": {
-          "id": "dataSource_22-194ce110d0e-layer-135",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/1"
-        },
-        "194ce110d0d-layer-134": {
-          "id": "dataSource_22-194ce110d0d-layer-134",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/2"
-        },
-        "194ce110d0d-layer-133": {
-          "id": "dataSource_22-194ce110d0d-layer-133",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Attendance",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/3"
-        },
-        "194ce110d0d-layer-132": {
-          "id": "dataSource_22-194ce110d0d-layer-132",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Tank car images",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/4"
-        },
-        "194ce110d0c-layer-131": {
-          "id": "dataSource_22-194ce110d0c-layer-131",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Pressure temperature",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/5"
-        },
-        "194ce110d0c-layer-130": {
-          "id": "dataSource_22-194ce110d0c-layer-130",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Appendix",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/6"
-        },
-        "1948a758b5c-layer-122": {
-          "id": "dataSource_22-1948a758b5c-layer-122",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-(1 & 2)-CG - Incident objectives",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "97311ecbaf4743bcbeb5c3f9267f1e77",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_503351b55531426995fd8f6775d6b19c/FeatureServer/1"
-        },
-        "1948a758b5b-layer-121": {
-          "id": "dataSource_22-1948a758b5b-layer-121",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-(1 & 2)-CG - Other objectives",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "97311ecbaf4743bcbeb5c3f9267f1e77",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_503351b55531426995fd8f6775d6b19c/FeatureServer/2"
-        },
-        "1948a758b5b-layer-120": {
-          "id": "dataSource_22-1948a758b5b-layer-120",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-(1 & 2)-CG - Notification",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "97311ecbaf4743bcbeb5c3f9267f1e77",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_503351b55531426995fd8f6775d6b19c/FeatureServer/3"
-        },
-        "1948a758b5a-layer-119": {
-          "id": "dataSource_22-1948a758b5a-layer-119",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-(1 & 2)-CG - Current actions",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "97311ecbaf4743bcbeb5c3f9267f1e77",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_503351b55531426995fd8f6775d6b19c/FeatureServer/4"
-        },
-        "1948a758b5a-layer-118": {
-          "id": "dataSource_22-1948a758b5a-layer-118",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-(1 & 2)-CG - Planned actions",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "97311ecbaf4743bcbeb5c3f9267f1e77",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_503351b55531426995fd8f6775d6b19c/FeatureServer/5"
-        },
-        "1948a0baa01-layer-117": {
-          "id": "dataSource_22-1948a0baa01-layer-117",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "1_FacilitiesInfo",
-          "layerId": "75",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/75"
-        },
-        "1948a0baa00-layer-116": {
-          "id": "dataSource_22-1948a0baa00-layer-116",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "2_Equipment",
-          "layerId": "74",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/74"
-        },
-        "1948a0baa00-layer-115": {
-          "id": "dataSource_22-1948a0baa00-layer-115",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "3_Contacts",
-          "layerId": "73",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/73"
-        },
-        "1948a04c626-layer-111": {
-          "id": "dataSource_22-1948a04c626-layer-111",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "1_FacilitiesInfo",
-          "layerId": "75",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/75"
-        },
-        "1948a04c626-layer-110": {
-          "id": "dataSource_22-1948a04c626-layer-110",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "2_Equipment",
-          "layerId": "74",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/74"
-        },
-        "1948a04c626-layer-109": {
-          "id": "dataSource_22-1948a04c626-layer-109",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "3_Contacts",
-          "layerId": "73",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/73"
-        },
-        "19489fbe89c-layer-110": {
-          "id": "dataSource_22-19489fbe89c-layer-110",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "1_FacilitiesInfo",
-          "layerId": "75",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/75"
-        },
-        "19489fbe89c-layer-109": {
-          "id": "dataSource_22-19489fbe89c-layer-109",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "2_Equipment",
-          "layerId": "74",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/74"
-        },
-        "19489fbe89c-layer-108": {
-          "id": "dataSource_22-19489fbe89c-layer-108",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "3_Contacts",
-          "layerId": "73",
-          "url": "https://gis.ecology.wa.gov/serverext/rest/services/SPPR/Spills_map_series/MapServer/73"
-        },
-        "19489dfd9d9-layer-107": {
-          "id": "dataSource_22-19489dfd9d9-layer-107",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Comms",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/1"
-        },
-        "19489dfd9d8-layer-106": {
-          "id": "dataSource_22-19489dfd9d8-layer-106",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/2"
-        },
-        "19489dfd9d8-layer-105": {
-          "id": "dataSource_22-19489dfd9d8-layer-105",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "WRI HASP V 4.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "45e2d2a3e2824f8095ad2fdefc367f29",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_fbb9f70ad24e448bafa7d3369dbfcc05/FeatureServer/3"
-        },
-        "19489dfc695-layer-102": {
-          "id": "dataSource_22-19489dfc695-layer-102",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/1"
-        },
-        "19489dfc694-layer-101": {
-          "id": "dataSource_22-19489dfc694-layer-101",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/2"
-        },
-        "19489dfc694-layer-100": {
-          "id": "dataSource_22-19489dfc694-layer-100",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Attendance",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/3"
-        },
-        "19489dfc694-layer-99": {
-          "id": "dataSource_22-19489dfc694-layer-99",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Tank car images",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/4"
-        },
-        "19489dfc693-layer-98": {
-          "id": "dataSource_22-19489dfc693-layer-98",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Pressure temperature",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/5"
-        },
-        "19489dfc693-layer-97": {
-          "id": "dataSource_22-19489dfc693-layer-97",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Appendix",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "61ebc4c267174f6abbffb7bdd3c49bff",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_c508b41bfdff46f096a17ee4863f44b8/FeatureServer/6"
-        },
-        "19488eef7cb-layer-145": {
-          "id": "dataSource_22-19488eef7cb-layer-145",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "USA Wetlands - Pop Up Table",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "050d4dd33df7462db3ea3b76c1320462",
-          "layerId": "1",
-          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Wetlands/FeatureServer/1"
-        },
-        "19488e33f99-layer-130": {
-          "id": "dataSource_22-19488e33f99-layer-130",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/1"
-        },
-        "19488e33f98-layer-129": {
-          "id": "dataSource_22-19488e33f98-layer-129",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/2"
-        },
-        "19488e33f98-layer-128": {
-          "id": "dataSource_22-19488e33f98-layer-128",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Attendance",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/3"
-        },
-        "19488e33f97-layer-127": {
-          "id": "dataSource_22-19488e33f97-layer-127",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Tank car images",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/4"
-        },
-        "19488e33f97-layer-126": {
-          "id": "dataSource_22-19488e33f97-layer-126",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Pressure temperature",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/5"
-        },
-        "19488e33f97-layer-125": {
-          "id": "dataSource_22-19488e33f97-layer-125",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Appendix",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "2061d50cf07a4f41ae888f371f3e132e",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_ca6347ff319a48cd8319c34d574b78a8/FeatureServer/6"
-        },
-        "19488e21444-layer-122": {
-          "id": "dataSource_22-19488e21444-layer-122",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/1"
-        },
-        "19488e21444-layer-121": {
-          "id": "dataSource_22-19488e21444-layer-121",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/2"
-        },
-        "19488e21443-layer-120": {
-          "id": "dataSource_22-19488e21443-layer-120",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Attendance",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/3"
-        },
-        "19488e21443-layer-119": {
-          "id": "dataSource_22-19488e21443-layer-119",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Tank car images",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/4"
-        },
-        "19488e21443-layer-118": {
-          "id": "dataSource_22-19488e21443-layer-118",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Pressure temperature",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/5"
-        },
-        "19488e21442-layer-117": {
-          "id": "dataSource_22-19488e21442-layer-117",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0_results - Appendix",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "3147f43ed177490bafe6bf4821716de1",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/survey123_7667ac7edd574cdc9d791167bdd9f80d_results/FeatureServer/6"
-        },
-        "19488e1c150-layer-114": {
-          "id": "dataSource_22-19488e1c150-layer-114",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Job hazards",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/1"
-        },
-        "19488e1c14f-layer-113": {
-          "id": "dataSource_22-19488e1c14f-layer-113",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Air monitoring",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/2"
-        },
-        "19488e1c14f-layer-112": {
-          "id": "dataSource_22-19488e1c14f-layer-112",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Attendance",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/3"
-        },
-        "19488e1c14f-layer-111": {
-          "id": "dataSource_22-19488e1c14f-layer-111",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Tank car images",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "4",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/4"
-        },
-        "19488e1c14e-layer-110": {
-          "id": "dataSource_22-19488e1c14e-layer-110",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Pressure temperature",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "5",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/5"
-        },
-        "19488e1c14e-layer-109": {
-          "id": "dataSource_22-19488e1c14e-layer-109",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "BNSF HASP v1.0 - Appendix",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "1b43fb7bb6e04fb5a9f64b0007488d4c",
-          "layerId": "6",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_91f961af102f48aa9f775fa35975e86c/FeatureServer/6"
-        },
-        "19488dffe98-layer-99": {
-          "id": "dataSource_22-19488dffe98-layer-99",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "201-3-CG - Ops branch1",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "cca60698b1a4438ca4908e8db5aa8234",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_87b466f5a5a44c04a9cf7369533311c5/FeatureServer/1"
-        },
-        "19488dffe97-layer-98": {
-          "id": "dataSource_22-19488dffe97-layer-98",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "201-3-CG - Task force1",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "cca60698b1a4438ca4908e8db5aa8234",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_87b466f5a5a44c04a9cf7369533311c5/FeatureServer/2"
-        },
-        "19488dc0892-layer-85": {
-          "id": "dataSource_22-19488dc0892-layer-85",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-4 CG - Resource wrrl",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "d0dc5863b91640788506bcad576507d3",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_8f883dfaa26d4bbeaf07ac7b2b6bed06/FeatureServer/1"
-        },
-        "19488dc0892-layer-84": {
-          "id": "dataSource_22-19488dc0892-layer-84",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 201-4 CG - Resources",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "d0dc5863b91640788506bcad576507d3",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_8f883dfaa26d4bbeaf07ac7b2b6bed06/FeatureServer/2"
-        },
-        "19488da035c-layer-81": {
-          "id": "dataSource_22-19488da035c-layer-81",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 206-CG - Medrptbgn",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "5103bddfb7954d04a306b4641df079d7",
-          "layerId": "1",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_7f9cd820050c4abc8802d2fbc2d38f4f/FeatureServer/1"
-        },
-        "19488da035c-layer-80": {
-          "id": "dataSource_22-19488da035c-layer-80",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 206-CG - Tranrptbgn",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "5103bddfb7954d04a306b4641df079d7",
-          "layerId": "2",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_7f9cd820050c4abc8802d2fbc2d38f4f/FeatureServer/2"
-        },
-        "19488da035b-layer-79": {
-          "id": "dataSource_22-19488da035b-layer-79",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "ICS 206-CG - Hosrptbgn",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "5103bddfb7954d04a306b4641df079d7",
-          "layerId": "3",
-          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/service_7f9cd820050c4abc8802d2fbc2d38f4f/FeatureServer/3"
         }
       },
       "isHidden": false
@@ -27060,7 +24147,7 @@
       "page_23": []
     }
   ],
-  "timestamp": 1770913735677,
+  "timestamp": 1786642968624,
   "customTheme": {},
   "header": {
     "layout": {
