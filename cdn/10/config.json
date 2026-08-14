@@ -373,6 +373,12 @@
           "widgetId": "widget_300",
           "bbox": {},
           "setting": {}
+        },
+        "20": {
+          "type": "WIDGET",
+          "widgetId": "widget_302",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -388,7 +394,8 @@
         "17",
         "18",
         "19",
-        "16"
+        "16",
+        "20"
       ]
     },
     "layout_7": {
@@ -20772,6 +20779,21 @@
         "styleConfig": {}
       },
       "id": "widget_301"
+    },
+    "widget_302": {
+      "id": "widget_302",
+      "uri": "widgets/presentation-mode/",
+      "version": "1.0.0",
+      "label": "Presentation Mode",
+      "config": {
+        "clientName": "WRI",
+        "mapKey": "response",
+        "serviceUrl": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/WRI_Presentations/FeatureServer/0",
+        "portalUrl": "https://wrienviro.maps.arcgis.com"
+      },
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
     }
   },
   "widgetsManifest": {},
@@ -21741,7 +21763,14 @@
     }
   },
   "attributes": {
-    "portalUrl": "https://WRIEnviro.maps.arcgis.com"
+    "portalUrl": "https://WRIEnviro.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "NO3gI5DZBFXkhm3U",
+    "express": false,
+    "title": "WRI Response Viewer",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
   "sharedThemeVariables": null,
   "dataSources": {
@@ -24201,5 +24230,5 @@
       "LARGE": 75
     }
   },
-  "publishTimestamp": 1770914447478
+  "publishTimestamp": 1786642970772
 }
