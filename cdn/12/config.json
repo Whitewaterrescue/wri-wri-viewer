@@ -379,6 +379,12 @@
           "widgetId": "widget_302",
           "bbox": {},
           "setting": {}
+        },
+        "21": {
+          "type": "WIDGET",
+          "widgetId": "widget_303",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -395,7 +401,8 @@
         "18",
         "19",
         "16",
-        "20"
+        "20",
+        "21"
       ]
     },
     "layout_7": {
@@ -3270,6 +3277,12 @@
           "widgetId": "widget_270",
           "bbox": {},
           "setting": {}
+        },
+        "13": {
+          "type": "WIDGET",
+          "widgetId": "widget_304",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -3280,7 +3293,8 @@
         "6",
         "9",
         "10",
-        "11"
+        "11",
+        "13"
       ]
     },
     "layout_58": {
@@ -4655,6 +4669,12 @@
           "widgetId": "widget_265",
           "bbox": {},
           "setting": {}
+        },
+        "11": {
+          "type": "WIDGET",
+          "widgetId": "widget_305",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -4663,7 +4683,8 @@
         "5",
         "6",
         "9",
-        "10"
+        "10",
+        "11"
       ]
     },
     "layout_73": {
@@ -6075,6 +6096,12 @@
           "widgetId": "widget_263",
           "bbox": {},
           "setting": {}
+        },
+        "16": {
+          "type": "WIDGET",
+          "widgetId": "widget_306",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -6085,7 +6112,8 @@
         "13",
         "10",
         "15",
-        "11"
+        "11",
+        "16"
       ]
     },
     "layout_88": {
@@ -7984,6 +8012,10 @@
             "widget_301": {
               "width": 403,
               "height": 362
+            },
+            "widget_303": {
+              "width": 340,
+              "height": 460
             }
           },
           "arrangement": "floating"
@@ -11917,6 +11949,10 @@
             "widget_269": {
               "width": 481,
               "height": 562
+            },
+            "widget_304": {
+              "width": 340,
+              "height": 460
             }
           },
           "arrangement": "floating"
@@ -14481,6 +14517,10 @@
             "widget_100": {
               "width": 1032,
               "height": 774
+            },
+            "widget_305": {
+              "width": 340,
+              "height": 460
             }
           },
           "arrangement": "floating"
@@ -17070,6 +17110,10 @@
             "widget_100": {
               "width": 1032,
               "height": 774
+            },
+            "widget_306": {
+              "width": 340,
+              "height": 460
             }
           },
           "arrangement": "floating"
@@ -20793,6 +20837,74 @@
       },
       "useMapWidgetIds": [
         "widget_1"
+      ]
+    },
+    "widget_303": {
+      "id": "widget_303",
+      "uri": "widgets/arcgis/measurement/",
+      "version": "1.20.0",
+      "label": "Measure",
+      "config": {
+        "enableDistance": true,
+        "defaultDistanceUnit": "imperial",
+        "enableArea": true,
+        "defaultAreaUnit": "acres",
+        "arrangement": "CLASSIC",
+        "disableSnapping": false
+      },
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_304": {
+      "id": "widget_304",
+      "uri": "widgets/arcgis/measurement/",
+      "version": "1.20.0",
+      "label": "Measure",
+      "config": {
+        "enableDistance": true,
+        "defaultDistanceUnit": "imperial",
+        "enableArea": true,
+        "defaultAreaUnit": "acres",
+        "arrangement": "CLASSIC",
+        "disableSnapping": false
+      },
+      "useMapWidgetIds": [
+        "widget_152"
+      ]
+    },
+    "widget_305": {
+      "id": "widget_305",
+      "uri": "widgets/arcgis/measurement/",
+      "version": "1.20.0",
+      "label": "Measure",
+      "config": {
+        "enableDistance": true,
+        "defaultDistanceUnit": "imperial",
+        "enableArea": true,
+        "defaultAreaUnit": "acres",
+        "arrangement": "CLASSIC",
+        "disableSnapping": false
+      },
+      "useMapWidgetIds": [
+        "widget_192"
+      ]
+    },
+    "widget_306": {
+      "id": "widget_306",
+      "uri": "widgets/arcgis/measurement/",
+      "version": "1.20.0",
+      "label": "Measure",
+      "config": {
+        "enableDistance": true,
+        "defaultDistanceUnit": "imperial",
+        "enableArea": true,
+        "defaultAreaUnit": "acres",
+        "arrangement": "CLASSIC",
+        "disableSnapping": false
+      },
+      "useMapWidgetIds": [
+        "widget_233"
       ]
     }
   },
