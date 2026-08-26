@@ -20936,7 +20936,8 @@
         "consistentDeg": 15,
         "scaleDependentDeg": 45,
         "arrowLengthPx": 78,
-        "units": "imperial"
+        "units": "imperial",
+        "ditchScaleM": 10
       },
       "useMapWidgetIds": [
         "widget_1"
