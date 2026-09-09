@@ -340,9 +340,7 @@
         },
         "10": {
           "type": "WIDGET",
-          "widgetId": "widget_261",
-          "bbox": {},
-          "setting": {}
+          "widgetId": "widget_308"
         },
         "15": {
           "type": "WIDGET",
@@ -402,14 +400,14 @@
         "8",
         "9",
         "22",
-        "10",
         "15",
         "17",
         "18",
         "19",
         "16",
         "20",
-        "21"
+        "21",
+        "10"
       ]
     },
     "layout_7": {
@@ -8027,6 +8025,10 @@
             "widget_307": {
               "width": 380,
               "height": 620
+            },
+            "widget_308": {
+              "width": 430,
+              "height": 720
             }
           },
           "arrangement": "floating"
@@ -19503,270 +19505,6 @@
         "widget_233"
       ]
     },
-    "widget_261": {
-      "uri": "widgets/common/search/",
-      "version": "1.19.0",
-      "offPanel": true,
-      "label": "Asset Search",
-      "config": {
-        "searchResultView": "Result_Panel",
-        "arrangementStyle": "Style1",
-        "searchResultStyle": "Classic",
-        "maxSuggestions": 6,
-        "recentSearchesMaxNumber": 6,
-        "resultMaxNumber": 6,
-        "enableFiltering": false,
-        "sourceType": "MapCentric",
-        "dataSourceConfigWithMapCentric": {
-          "widget_1-dataSource_22": {
-            "dataSourceConfig": [
-              {
-                "configId": "config_1",
-                "icon": null,
-                "label": "BNSF_OIL_SPILL",
-                "displayLabel": true,
-                "useDataSource": {
-                  "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f2505a10-layer-172",
-                  "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f2505a10-layer-172",
-                  "rootDataSourceId": "dataSource_22",
-                  "fields": [
-                    "Description"
-                  ]
-                },
-                "displayFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "searchFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "hint": "",
-                "searchServiceType": "FeatureService",
-                "searchExact": false,
-                "searchInCurrentMapExtent": false
-              },
-              {
-                "configId": "config_widget_1-dataSource_22_2",
-                "icon": null,
-                "label": "BNSF_FORT",
-                "displayLabel": true,
-                "useDataSource": {
-                  "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250476f-layer-171",
-                  "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250476f-layer-171",
-                  "rootDataSourceId": "dataSource_22",
-                  "fields": [
-                    "Description"
-                  ]
-                },
-                "displayFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "searchFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "hint": "",
-                "searchServiceType": "FeatureService",
-                "searchExact": false,
-                "searchInCurrentMapExtent": false
-              },
-              {
-                "configId": "config_widget_1-dataSource_22_3",
-                "icon": null,
-                "label": "BNSF_FIRE",
-                "displayLabel": true,
-                "useDataSource": {
-                  "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f25043f3-layer-170",
-                  "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f25043f3-layer-170",
-                  "rootDataSourceId": "dataSource_22",
-                  "fields": [
-                    "Description"
-                  ]
-                },
-                "displayFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "searchFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "hint": "",
-                "searchServiceType": "FeatureService",
-                "searchExact": false,
-                "searchInCurrentMapExtent": false
-              },
-              {
-                "configId": "config_widget_1-dataSource_22_4",
-                "icon": null,
-                "label": "BNSF_CONNEX",
-                "displayLabel": true,
-                "useDataSource": {
-                  "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250428c-layer-169",
-                  "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250428c-layer-169",
-                  "rootDataSourceId": "dataSource_22",
-                  "fields": [
-                    "Description"
-                  ]
-                },
-                "displayFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "searchFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "hint": "",
-                "searchServiceType": "FeatureService",
-                "searchExact": false,
-                "searchInCurrentMapExtent": false
-              },
-              {
-                "configId": "config_widget_1-dataSource_22_5",
-                "icon": null,
-                "label": "BNSF_COMMS",
-                "displayLabel": true,
-                "useDataSource": {
-                  "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250367b-layer-168",
-                  "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250367b-layer-168",
-                  "rootDataSourceId": "dataSource_22",
-                  "fields": [
-                    "Description"
-                  ]
-                },
-                "displayFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "searchFields": [
-                  {
-                    "jimuName": "Description",
-                    "name": "Description",
-                    "type": "STRING",
-                    "esriType": "esriFieldTypeString",
-                    "alias": "Description",
-                    "format": null
-                  }
-                ],
-                "hint": "",
-                "searchServiceType": "FeatureService",
-                "searchExact": false,
-                "searchInCurrentMapExtent": false
-              }
-            ],
-            "synchronizeSettings": false
-          }
-        },
-        "datasourceConfig": [],
-        "isAutoSelectFirstResult": true,
-        "isUseCurrentLoation": false
-      },
-      "id": "widget_261",
-      "useUtilities": [],
-      "outputDataSources": [],
-      "useDataSources": [
-        {
-          "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f2505a10-layer-172",
-          "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f2505a10-layer-172",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "Description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250476f-layer-171",
-          "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250476f-layer-171",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "Description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f25043f3-layer-170",
-          "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f25043f3-layer-170",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "Description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250428c-layer-169",
-          "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250428c-layer-169",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "Description"
-          ]
-        },
-        {
-          "dataSourceId": "dataSource_22-194f25095a9-layer-173-194f250367b-layer-168",
-          "mainDataSourceId": "dataSource_22-194f25095a9-layer-173-194f250367b-layer-168",
-          "rootDataSourceId": "dataSource_22",
-          "fields": [
-            "Description"
-          ]
-        }
-      ],
-      "useMapWidgetIds": [
-        "widget_1"
-      ]
-    },
     "widget_263": {
       "uri": "widgets/common/filter/",
       "version": "1.19.0",
@@ -20939,6 +20677,31 @@
         "units": "imperial",
         "ditchScaleM": 10
       },
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_308": {
+      "uri": "widgets/wri-resource-search/",
+      "version": "1.0.0",
+      "label": "Resource Search",
+      "config": {
+        "resourceLayer": {
+          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/WRI_WRRL_Resources/FeatureServer/0",
+          "where": "1=1"
+        },
+        "defaultRadiusMi": 100,
+        "radiusPresets": [
+          25,
+          50,
+          100,
+          250
+        ],
+        "speedMph": 35,
+        "maxResults": 200,
+        "detourFactor": 1.3
+      },
+      "id": "widget_308",
       "useMapWidgetIds": [
         "widget_1"
       ]
