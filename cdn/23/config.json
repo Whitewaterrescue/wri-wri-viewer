@@ -20531,7 +20531,13 @@
           "anchorSpacingFt": 100,
           "reservePct": 20
         },
-        "timingModel": "jobson"
+        "timingModel": "jobson",
+        "wrrlLayer": {
+          "url": "https://services6.arcgis.com/Ji79lWGR5B33LhY7/arcgis/rest/services/WRI_WRRL_Resources/FeatureServer/0",
+          "maxDistanceMi": 250,
+          "maxRows": 25,
+          "excludeOrgs": []
+        }
       },
       "useMapWidgetIds": [
         "widget_1"
