@@ -389,6 +389,12 @@
           "widgetId": "widget_307",
           "bbox": {},
           "setting": {}
+        },
+        "23": {
+          "type": "WIDGET",
+          "widgetId": "widget_309",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -407,7 +413,8 @@
         "16",
         "20",
         "21",
-        "10"
+        "10",
+        "23"
       ]
     },
     "layout_7": {
@@ -8029,6 +8036,10 @@
             "widget_308": {
               "width": 430,
               "height": 720
+            },
+            "widget_309": {
+              "width": 1120,
+              "height": 680
             }
           },
           "arrangement": "floating"
@@ -20711,6 +20722,18 @@
       "useMapWidgetIds": [
         "widget_1"
       ]
+    },
+    "widget_309": {
+      "uri": "widgets/common/embed/",
+      "version": "1.20.0",
+      "label": "Drill Video",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://whitewaterrescue.github.io/wri-response-viewer/drill-video/</p>",
+        "enableLabel": false
+      },
+      "id": "widget_309",
+      "useDataSources": []
     }
   },
   "widgetsManifest": {},
