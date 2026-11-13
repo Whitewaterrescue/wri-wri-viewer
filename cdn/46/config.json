@@ -395,6 +395,12 @@
           "widgetId": "widget_314",
           "bbox": {},
           "setting": {}
+        },
+        "24": {
+          "type": "WIDGET",
+          "widgetId": "widget_315",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -414,7 +420,8 @@
         "20",
         "21",
         "10",
-        "23"
+        "23",
+        "24"
       ]
     },
     "layout_7": {
@@ -8383,6 +8390,10 @@
             "widget_314": {
               "width": 1120,
               "height": 700
+            },
+            "widget_315": {
+              "width": 1280,
+              "height": 820
             }
           },
           "arrangement": "floating"
@@ -21122,6 +21133,18 @@
         "enableLabel": false
       },
       "id": "widget_314",
+      "useDataSources": []
+    },
+    "widget_315": {
+      "uri": "widgets/common/embed/",
+      "version": "1.20.0",
+      "label": "3D Model",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://drone.whitewaterrescue.com/3d</p>",
+        "enableLabel": false
+      },
+      "id": "widget_315",
       "useDataSources": []
     }
   },
