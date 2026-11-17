@@ -342,21 +342,9 @@
           "type": "WIDGET",
           "widgetId": "widget_308"
         },
-        "15": {
-          "type": "WIDGET",
-          "widgetId": "widget_279",
-          "bbox": {},
-          "setting": {}
-        },
         "16": {
           "type": "WIDGET",
           "widgetId": "widget_280",
-          "bbox": {},
-          "setting": {}
-        },
-        "17": {
-          "type": "WIDGET",
-          "widgetId": "widget_301",
           "bbox": {},
           "setting": {}
         },
@@ -413,8 +401,6 @@
         "9",
         "22",
         "24",
-        "15",
-        "17",
         "18",
         "19",
         "16",
@@ -8351,10 +8337,6 @@
               "width": 1032,
               "height": 774
             },
-            "widget_279": {
-              "width": 1120,
-              "height": 871
-            },
             "widget_280": {
               "width": 1200,
               "height": 800
@@ -8370,10 +8352,6 @@
             "widget_297": {
               "width": 706,
               "height": 481
-            },
-            "widget_301": {
-              "width": 403,
-              "height": 362
             },
             "widget_303": {
               "width": 340,
@@ -20334,19 +20312,6 @@
       "id": "widget_278",
       "useDataSources": []
     },
-    "widget_279": {
-      "uri": "widgets/common/embed/",
-      "version": "1.20.0",
-      "label": "Live Stream",
-      "config": {
-        "embedType": "url",
-        "expression": "<p>https://app.mapnova.com/live?workspaceId=c9c97b46-4d56-4869-89ed-fba4ed6467de</p>",
-        "enableLabel": false,
-        "honorThemeFont": false
-      },
-      "id": "widget_279",
-      "useDataSources": []
-    },
     "widget_280": {
       "uri": "widgets/common/embed/",
       "version": "1.20.0",
@@ -20881,42 +20846,6 @@
       "useMapWidgetIds": [
         "widget_1"
       ]
-    },
-    "widget_301": {
-      "uri": "widgets/common/image/",
-      "version": "1.20.0",
-      "label": "Live Stream QR",
-      "config": {
-        "functionConfig": {
-          "altText": "",
-          "toolTip": "",
-          "linkParam": {},
-          "scale": "Fit",
-          "imageParam": {
-            "url": "${appResourceUrl}/images/widget_301/1777478017385.png",
-            "originalUrl": "${appResourceUrl}/images/widget_301/1777478017385.png",
-            "fileName": "1777478017385.png",
-            "originalName": "Screen Shot 2026-04-29 at 09.52.38.png",
-            "imgSourceType": "BY_UPLOAD",
-            "fileFormat": "image/png",
-            "originalId": "1777478017385",
-            "originalWidth": 242,
-            "originalHeight": 238,
-            "cropParam": {
-              "svgViewBox": "0 0 16 16",
-              "svgPath": "M0 0h16v16H0z",
-              "cropShape": "square"
-            }
-          },
-          "imageDisplayQualityMode": "ORIGINAL",
-          "imgSourceType": "",
-          "srcExpression": null,
-          "imageViewer": false,
-          "imageFillMode": "FIT"
-        },
-        "styleConfig": {}
-      },
-      "id": "widget_301"
     },
     "widget_302": {
       "id": "widget_302",
