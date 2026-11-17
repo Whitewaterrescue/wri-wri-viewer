@@ -8346,8 +8346,8 @@
               "height": 648
             },
             "widget_282": {
-              "width": 436,
-              "height": 436
+              "width": 460,
+              "height": 680
             },
             "widget_297": {
               "width": 706,
@@ -20327,10 +20327,10 @@
     "widget_282": {
       "uri": "widgets/common/embed/",
       "version": "1.20.0",
-      "label": "Gateway PIN (live)",
+      "label": "Incident QR",
       "config": {
         "embedType": "url",
-        "expression": "<p>https://script.google.com/macros/s/AKfycbzcg-yD3_ALkdGYVEOuGY3VR8NrlsPRoxL6k-4LKX3SqEI6NlaKkpprKCtez2xo9C2u/exec?api=gatewayqr</p>",
+        "expression": "<p>https://whitewaterrescue.github.io/wri-field-app/panels/incident-qr/?embed=1#respond</p>",
         "enableLabel": false
       },
       "id": "widget_282",
