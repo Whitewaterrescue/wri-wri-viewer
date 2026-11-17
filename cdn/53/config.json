@@ -256,11 +256,11 @@
           "type": "WIDGET",
           "widgetId": "widget_278",
           "bbox": {
-            "left": "45.2%",
-            "right": "47.1%",
-            "top": "91.7%",
-            "bottom": "4.2%",
-            "width": "7.7%",
+            "left": "25.7%",
+            "right": "64.9%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
             "height": "4.1%"
           },
           "setting": {
@@ -278,17 +278,83 @@
           "type": "WIDGET",
           "widgetId": "widget_276",
           "bbox": {
-            "left": "54.0%",
-            "right": "38.3%",
-            "top": "91.8%",
-            "bottom": "4.1%",
-            "width": "7.7%",
+            "left": "35.5%",
+            "right": "55.1%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
             "height": "4.1%"
           },
           "setting": {
             "autoProps": {
-              "right": false,
-              "left": true,
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "7": {
+          "type": "WIDGET",
+          "widgetId": "widget_316",
+          "bbox": {
+            "left": "45.3%",
+            "right": "45.3%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
+            "height": "4.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "8": {
+          "type": "WIDGET",
+          "widgetId": "widget_317",
+          "bbox": {
+            "left": "55.1%",
+            "right": "35.5%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
+            "height": "4.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "9": {
+          "type": "WIDGET",
+          "widgetId": "widget_318",
+          "bbox": {
+            "left": "64.9%",
+            "right": "25.7%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
+            "height": "4.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
               "top": true,
               "bottom": false
             },
@@ -303,7 +369,10 @@
         "1",
         "4",
         "5",
-        "6"
+        "6",
+        "7",
+        "8",
+        "9"
       ]
     },
     "layout_6": {
@@ -20242,7 +20311,8 @@
             "hover": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#1e5fa8"
+                "color": "#1e5fa8",
+                "size": "12px"
               },
               "background": {
                 "color": "#FFFFFF",
@@ -20252,7 +20322,8 @@
             "regular": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#FFFFFF"
+                "color": "#FFFFFF",
+                "size": "12px"
               },
               "background": {
                 "color": "#1e5fa8",
@@ -20289,7 +20360,8 @@
             "hover": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#1e5fa8"
+                "color": "#1e5fa8",
+                "size": "12px"
               },
               "background": {
                 "color": "#FFFFFF",
@@ -20299,7 +20371,8 @@
             "regular": {
               "enableDynamicStyle": false,
               "text": {
-                "color": "#FFFFFF"
+                "color": "#FFFFFF",
+                "size": "12px"
               },
               "background": {
                 "color": "#1e5fa8",
@@ -21075,6 +21148,153 @@
         "enableLabel": false
       },
       "id": "widget_315",
+      "useDataSources": []
+    },
+    "widget_316": {
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Planning Dashboard",
+      "config": {
+        "functionConfig": {
+          "text": "Planning Dashboard",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://script.google.com/macros/s/AKfycbx1GJXj2PUZFP9--SjS0mPaMAqBj92FBTpYl86a1pD9KFeAXjBwbklFJP6G-6If0VexNg/exec",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#1e5fa8",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#1e5fa8",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_316",
+      "useDataSources": []
+    },
+    "widget_317": {
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Logistics Dashboard",
+      "config": {
+        "functionConfig": {
+          "text": "Logistics Dashboard",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://whitewaterrescue.github.io/wri-logistics/",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#1e5fa8",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#1e5fa8",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_317",
+      "useDataSources": []
+    },
+    "widget_318": {
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Safety Dashboard",
+      "config": {
+        "functionConfig": {
+          "text": "Safety Dashboard",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://whitewaterrescue.github.io/wri-safety/",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#1e5fa8",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#1e5fa8",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_318",
       "useDataSources": []
     }
   },
