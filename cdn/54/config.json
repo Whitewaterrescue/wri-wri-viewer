@@ -256,8 +256,8 @@
           "type": "WIDGET",
           "widgetId": "widget_278",
           "bbox": {
-            "left": "25.7%",
-            "right": "64.9%",
+            "left": "20.8%",
+            "right": "69.8%",
             "top": "91.9%",
             "bottom": "4%",
             "width": "9.4%",
@@ -278,8 +278,8 @@
           "type": "WIDGET",
           "widgetId": "widget_276",
           "bbox": {
-            "left": "35.5%",
-            "right": "55.1%",
+            "left": "30.6%",
+            "right": "60%",
             "top": "91.9%",
             "bottom": "4%",
             "width": "9.4%",
@@ -300,8 +300,8 @@
           "type": "WIDGET",
           "widgetId": "widget_316",
           "bbox": {
-            "left": "45.3%",
-            "right": "45.3%",
+            "left": "40.4%",
+            "right": "50.2%",
             "top": "91.9%",
             "bottom": "4%",
             "width": "9.4%",
@@ -322,8 +322,8 @@
           "type": "WIDGET",
           "widgetId": "widget_317",
           "bbox": {
-            "left": "55.1%",
-            "right": "35.5%",
+            "left": "50.2%",
+            "right": "40.4%",
             "top": "91.9%",
             "bottom": "4%",
             "width": "9.4%",
@@ -344,8 +344,30 @@
           "type": "WIDGET",
           "widgetId": "widget_318",
           "bbox": {
-            "left": "64.9%",
-            "right": "25.7%",
+            "left": "60%",
+            "right": "30.6%",
+            "top": "91.9%",
+            "bottom": "4%",
+            "width": "9.4%",
+            "height": "4.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "10": {
+          "type": "WIDGET",
+          "widgetId": "widget_319",
+          "bbox": {
+            "left": "69.8%",
+            "right": "20.8%",
             "top": "91.9%",
             "bottom": "4%",
             "width": "9.4%",
@@ -372,7 +394,8 @@
         "6",
         "7",
         "8",
-        "9"
+        "9",
+        "10"
       ]
     },
     "layout_6": {
@@ -21295,6 +21318,55 @@
         }
       },
       "id": "widget_318",
+      "useDataSources": []
+    },
+    "widget_319": {
+      "uri": "widgets/common/button/",
+      "version": "1.20.0",
+      "label": "Finance Dashboard",
+      "config": {
+        "functionConfig": {
+          "text": "Finance Dashboard",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://whitewaterrescue.github.io/wri-field-app/apps/?app=finance",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "danger"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#1e5fa8",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#FFFFFF",
+                "fillType": "fill"
+              }
+            },
+            "regular": {
+              "enableDynamicStyle": false,
+              "text": {
+                "color": "#FFFFFF",
+                "size": "12px"
+              },
+              "background": {
+                "color": "#1e5fa8",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_319",
       "useDataSources": []
     }
   },
